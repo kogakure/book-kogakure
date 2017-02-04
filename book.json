@@ -1,0 +1,24 @@
+{
+  "title": "kogakure",
+  "author": "Stefan Imhoff",
+  "language": "de",
+  "links": {
+    "sidebar": {
+      "kogakure.de": "https://kogakure.de",
+      "stefanimhoff.de": "https://stefanimhoff.de"
+    }
+  },
+  "plugins": [],
+  "pluginsConfig": {
+    "sharing": {
+      "facebook": false,
+      "twitter": false,
+      "all": [
+        "instapaper",
+        "twitter",
+        "google",
+        "facebook"
+      ]
+    }
+  }
+}
