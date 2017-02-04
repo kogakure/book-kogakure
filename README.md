@@ -13,7 +13,7 @@ the German version, which is also provided on the corresponding website.
 
 - [x] Create repository and basic files
 - [x] Set up GitBook configuration
-- [ ] Create build tasks for releasing PDF, epub and mobi
+- [x] Create build tasks for releasing PDF, epub and mobi
 - [ ] Decide on structure of book
 - [ ] Write book
 

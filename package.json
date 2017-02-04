@@ -3,7 +3,14 @@
   "version": "0.0.1",
   "private": true,
   "description": "Source for the GitBook of kogakure.de",
-  "scripts": {},
+  "scripts": {
+    "serve": "gitbook serve",
+    "build": "npm run build:website && npm run build:pdf && npm run build:epub && npm run build:mobi",
+    "build:website": "gitbook build",
+    "build:pdf": "gitbook pdf ./ _release/kogakure.pdf",
+    "build:epub": "gitbook epub ./ _release/kogakure.epub",
+    "build:mobi": "gitbook mobi ./ _release/kogakure.mobi"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kogakure/book-kogakure.git"
