@@ -1,0 +1,17 @@
+{
+  "name": "book-kogakure",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Source for the GitBook of kogakure.de",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogakure/book-kogakure.git"
+  },
+  "author": "Stefan Imhoff",
+  "license": "CC-BY-NC 3.0",
+  "bugs": {
+    "url": "https://github.com/kogakure/book-kogakure/issues"
+  },
+  "homepage": "https://kogakure.de"
+}
