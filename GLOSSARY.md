@@ -7,7 +7,7 @@
 (jap. 武神館). Organisation, gegründet von Hatsumi Masaaki, vereint neun alte Krieger- und Ninjutsu-Ryu.
 
 ## Chunin
-(jap. 中人). Mittlerer Rang der Ninja. Kontaktperson zwischen dem Führer eines Clans (Jōnin) und den ausführenden Agenten (Genin). Seine Stärken lagen im Bereich der Menschenkenntnis und des Verkleidens, weil er meist den Kontakt zum Auftraggeber herstellte.
+(jap. 中人). Mittlerer Rang der Ninja. Kontaktperson zwischen dem Führer eines Clans (Jonin) und den ausführenden Agenten (Genin). Seine Stärken lagen im Bereich der Menschenkenntnis und des Verkleidens, weil er meist den Kontakt zum Auftraggeber herstellte.
 
 ## Dojo
 (jap. 道場). Trainingshalle.
