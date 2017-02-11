@@ -1,6 +1,7 @@
 # Übersicht
 
-- [Einleitung](README.md)
+- [Vorwort](README.md)
+- [Einleitung](ninjutsu.md)
 
 ----
 
