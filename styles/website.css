@@ -1,0 +1,8 @@
+.markdown-section .hints-alert a {
+  color: #3c763d;
+  text-decoration: underline;
+}
+
+.markdown-section .hints-alert a:hover {
+  color: #444444;
+}

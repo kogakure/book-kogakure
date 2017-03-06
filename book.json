@@ -7,7 +7,18 @@
       "kogakure.de": "https://kogakure.de"
     }
   },
-  "plugins": [],
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+  },
+  "plugins": [
+    "bibtex-cite",
+    "hints",
+    "-wordcount"
+  ],
   "pluginsConfig": {
     "sharing": {
       "facebook": false,

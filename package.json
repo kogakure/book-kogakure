@@ -1,13 +1,13 @@
 {
   "name": "book-kogakure",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": true,
   "description": "Source for the GitBook of kogakure.de",
   "scripts": {
     "serve": "gitbook serve",
     "build": "npm run build:website && npm run build:pdf && npm run build:epub && npm run build:mobi",
     "build:website": "gitbook build",
-    "build:pdf": "gitbook pdf ./ _release/kogakure.pdf",
+    "build:pdf": "gitbook pdf  ./ _release/kogakure.pdf",
     "build:epub": "gitbook epub ./ _release/kogakure.epub",
     "build:mobi": "gitbook mobi ./ _release/kogakure.mobi"
   },
@@ -20,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/kogakure/book-kogakure/issues"
   },
-  "homepage": "https://kogakure.de"
+  "homepage": "https://kogakure.de",
+  "devDependencies": {
+    "gitbook-plugin-bibtex-cite": "^1.1.0",
+    "gitbook-plugin-hints": "^1.0.2",
+    "gitbook-plugin-wordcount": "0.0.1"
+  }
 }
