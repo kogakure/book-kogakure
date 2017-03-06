@@ -12,7 +12,7 @@ Zu all diesen äußerlichen Umständen braucht man nun nur noch als Beschleunige
 Ganz in der Nähe, südöstlich von *Iga* in den *Yoshino*-Bergen ist der Ort, an dem die Führer des *shugendō*-Sekte lebten. Und südlich von *Iga*, in den *Kumano*-Bergen gelegen, ist ein anderer heiliger Ort der *shugendō*-Sekte. Es ist sehr wahrscheinlich, dass diese *yamabushi* ihre Philosophien und Methoden mit den Bewohnern von *Iga* austauschten.
 
 
-## Der Iga-ryū
+## Der Iga-Ryū
 
 Im *Iga-ryū* gab es viele andere *ryū* mit ihren eigenen Spezialitäten und Traditionen, aber der Ursprung aller *Iga-ryū* Kriegskünste soll auf *Ikai* zurückreichen, der aus China in eine Höhle auf dem Berg *Takeo* floh. Was er aus China mitbrachte, war zuallererst das Wissen des *koshijutsu* (Techniken gegen Muskeln und Sehnen), das er neben vielen anderen auch *Gamon* *Doshi* (Moralist) lehrte. *Gamon Doshi* und sein Schüler *Garyū Doshi* werden als Gründer fast aller Kriegskünste in der Region von *Iga* gesehen.
 
@@ -33,7 +33,7 @@ Es gibt eine andere Geschichte, die festlegt, dass *Ise Saburo Yoshimoru* mit *M
 All die verschiedenen *Iga-ryū* hatten ihre eigene Linie von *soke* ('Kopf der Familie', Oberhaupt), aber der *Iga-ryū* als Ganzes hatte ebenfalls einen Stammbaum von wichtigen Personen, die *jōnin* genannt wurden. Es ist nicht ungewöhnlich hier auch die Namen von *soke* zu finden die auch *soke* in anderen *Iga-ryū* waren.
 
 
-## Die Großmeister des Iga-ryū
+## Die Großmeister des Iga-Ryū
 
 Unten eine Liste der *Iga-ryū* *jōnin* bis zum Ende des 16. Jahrhunderts. Das erwähnte Jahr ist nicht genau oder das Jahr in dem die Personen Großmeister waren, aber das Jahr, in denen sie aktiv waren.
 
@@ -57,7 +57,7 @@ Unten eine Liste der *Iga-ryū* *jōnin* bis zum Ende des 16. Jahrhunderts. Das 
 18. Momochi Sandayu II (1573-1591)
 
 
-## Die Familien des Iga-ryū
+## Die Familien des Iga-Ryū
 
 Das gesammelte Wissen des *Iga-ryū* wurde entwickelt und beschützt von 45 Familien. Diese Familien waren:
 
@@ -69,7 +69,7 @@ Die *Toda*-Familie ist auch interessant. Außer, dass sie die *soke* des *Kumoga
 
 *Momochi* war eine der berühmtesten Familien und *Momochi Sandayu* war ohne Frage der berühmteste *ninja*-Führer, zusammen mit *Hanzo Hattori*. *Momochi Sandayu* und drei seiner Nachkommen waren im 16ten Jahrhundert *soke* im *Gyokko-ryū* und *Koto-ryū*. Sie hatten auch Schulen der *Sakagami*-Familie geerbt. Im 17ten Jahrhundert wurden der *Gyokko-ryū*, *Koto-ryū*, *Kumogakure-ryū* und *Togakure-ryū* unter *Toda Seiryū Nobutsuna* weitergeführt. Später wurde auch der *Gyokushin_ryū* an die *Toda*-Familie weitergereicht. Andere Namen, die eine direkte Verbindung zum *Bujinkan* haben sind *Ishitani*, *Izumo* und *Iga*.
 
-## Mit dem Iga-ryū verwandte Schulen
+## Mit dem Iga-Ryū verwandte Schulen
 
 Hier sind einige *ryū*, die Teil des *Iga-ryū* und der Traditionen der *Iga*-Provinz waren:
 

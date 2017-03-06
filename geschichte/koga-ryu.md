@@ -1,7 +1,7 @@
-# Kōga-ryū
+# Kōga-Ryū
 
 
-## Gründung des Kōga-ryū
+## Gründung des Kōga-Ryū
 
 Das *Kōga-ryū-ninjutsu* war der andere *ninja*-Clan von großer Wichtigkeit in Japan. Er wurde von 53 Familien gegründet, wahrscheinlich in der Tenkyo-Periode zwischen 938 und 946.
 
@@ -12,7 +12,7 @@ Die Tradition bleib für sieben Generationen, *Oni no Kami Ienari*, *Iesada*, *I
 Kōga-ryū, Shinpi-ryū, Taira-ryū, Isshu-ryū, Byaku-ryū, Tengu-ryū, Taro-ryū, Kuruya-ryū, Tomo-ryū, Tatara-ryū, Sugawara-ryū, Otomo-ryū, Hiryū-ryū, Fujiwara-ryū, Sasaki-ryū, Tachibana-ryū, Kawachi Yon Tengu-ryū.
 
 
-## Die Anführer des Kōga-ryū
+## Die Anführer des Kōga-Ryū
 
 Während der *Kōga-ryū* wuchs, gab es acht Familien, die die anderen *ryū* in *Kōga* kontrollierten. Diese acht Familien waren *Kōga*, *Mochizuki*, *Ugai*, *Naikii*, *Akutagawa*, *Ueno*, *Ban* und *Nagano*. Aber auch Gruppen in *Kōga* wie *Hiryūgumi*, *Kakuryūgumi*, *Tachibana Hachitengu Gumi* und *Kawachi Yon Tengu Gumi* hatten sehr fähige Meister.
 
@@ -23,12 +23,12 @@ Fast 100 Jahre später warb die *Sasaki*-Familie *ninja* noch einmal. Dieses mal
 *Sasaki*s Armee wurde in drei Divisionen aufgeteilt, die erste wurde von *ninja* des *Mikumo-ryū*, *Takanose-ryū*, *Mizuhara-ryū* und *Inui-ryū* angeführt. Die zweite wurde von den anderen 53 *Kōga*-Familien angeführt und die dritte von den *samurai* *Sasaki*s. In der Schlacht wechselte *Mikumo Iyo Kami*, der eine von *Sasaki*s Armeen anführte, plötzlich die Seiten und griff *Sasaki*s Armee von der Rückseite an, was zu deren Niederlage führte. *Sasaki* selbst konnte nur knapp entkommen.
 
 
-## Tokugawa Ieyasu setzt Kōga-ninja ein
+## Tokugawa Ieyasu setzt Kōga-Ninja ein
 
 Als *Tokugawa Ieyasu* um die Macht in Japan kämpfte, wurde die *Fushima*-Burg nahe Kyoto belagert. Sie mussten sich lange genug gegen die Armeen im Westen verteidigen, damit die *Tokugawa*-Armee genug Zeit hatte sich für den Kampf in *Sekigahara* (Ort der letzten Entscheidungsschlacht des Bürgerkriegs) im Osten zu gruppieren. 400 *ninja* der *Kōga*-Region halfen bei der Verteidigung. Einige von ihnen in der Burg, andere terrorisierten den Feind draußen mit verschiedenen Angriffen. Ungefähr 100 von ihnen starben, und nachdem *Tokugawa* gesiegt hatte hielten sie eine Zeremonie ab, und es wird erwähnt, dass *Mochizuki* und *Arakawa* getötet wurden.
 
 
-## Der letzte Einsatz der Kōga-ninja
+## Der letzte Einsatz der Kōga-Ninja
 
 Eines der letzten Male, bei der die *Kōga-ninja* aktiv wurden war die Schlacht bei *Shimabara no Ran* (Ort der Schlacht im Christenaufstand), als christliche *samurai* eine Rebellion starteten und die *Hara*-Burg in der *Shimabara*-Provinz auf *Kyūshū* besetzten. Zehn *ninja* aus der *Kōga*-Region wurden von *Izumo Kami Nobutsuna* ausgesandt, um Informationen für die *samurai* des *shōgun* zu sammeln, um den Angriff gegen die Burg vorzubereiten.
 
@@ -54,7 +54,7 @@ Am 27. Januar gelang es fünf *Kōga-ninja*, als Soldaten verkleidet in die Burg
 Als die Burg am 24. Februar angegriffen wurde, dienten die *Kōga-ninja* als Verbindungsmänner zwischen den Truppenteilen. Nebenbei kann noch erwähnt werden, dass *Miyamoto Musashi* (berühmtester Schwertmeister Japans), dem *shōgun* bei der Planung der Schlacht half. Aber er wurde von einem Stein getroffen, den eine Frau von der Mauer geworfen hatte und musste sich zurückziehen und beschwerte sich über den Verlust seiner jugendlichen Kraft.
 
 
-## Der letzte Kōga-ninja
+## Der letzte Kōga-Ninja
 
 Es wird erzählt, dass der *Kōga-ryū* bis Mitte des Zwanzigsten Jahrhunderts durch *Fujita Seiko* (1899-1966) überlebte. Er soll der 14. *soke* des *Kōga-ryū* gewesen sein. Im Zweiten Weltkrieg führte er kleine Einheiten in den Dschungeln an. Bei den Olympischen Spielen in *Tōkyō* 1964 versuchte er die Sportler dazu zu bewegen nach *ninja*-Methoden zu trainieren. Er machte zu dieser Zeit durch aufsehenerregende Demonstrationen auf sich aufmerksam. *Fujita Seiko* starb am 4. Januar 1966 mit 67 Jahren in seinem Haus in *Tōkyō* an Leberzirrhose. Er war der Großmeister des *Kōga-ninja-ryū-jūjutsu* und der 14. *soke* des *Sato-ryū-kenpō*. Nach offiziellen Angaben hat er eine Lehrbefugnis für den *Kōga-ryū* niemals an Schüler weitergegeben.
 

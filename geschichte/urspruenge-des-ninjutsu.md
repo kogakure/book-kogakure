@@ -16,11 +16,11 @@ Und nicht selten starb ein junger Samurai, der das erste Mal gegen einen *ninja*
 
 ## Entstehung in China
 
-![A Chinese bamboo book, open and unfolded to display the contents. This copy of The Art of War (on the cover, "孫子兵法") by Sun Tzu is part of a collection at the University of California, Riverside. The cover also reads "乾隆御書", meaning it was either commissioned or transcribed by the Qianlong Emperor.](/images/bamboo-book-sun-tzu.jpg "Bambus-Buch, Kopie von Sun Tzus 'Die Kunst des Krieges'")
-
 Über die Anfänge des *ninjutsu* gibt es noch viele Unsicherheiten. Die allerersten Ursprünge liegen höchstwahrscheinlich auf dem Festland in China. Die Ideen wurden also aus China von Flüchtlingen nach Japan gebracht.
 
 Dafür spricht unter anderem die Existenz von *ninjutsu* in Korea und China (Lin Kuei Hing Su To).
+
+![A Chinese bamboo book, open and unfolded to display the contents. This copy of The Art of War (on the cover, "孫子兵法") by Sun Tzu is part of a collection at the University of California, Riverside. The cover also reads "乾隆御書", meaning it was either commissioned or transcribed by the Qianlong Emperor.](/images/bamboo-book-sun-tzu.jpg "Bambus-Buch, Kopie von Sun Tzus 'Die Kunst des Krieges'")
 
 Der 2000 Jahre alte Kriegsklassiker <b>Sun Tzu</b>, <cite>Die Kunst des Krieges</cite> (ca. 400 bis 320 v. Chr.) ist wohl eines der ersten Werke, das sich mit Spionage beschäftigt. Diese Schrift wurde um 600 n. Chr. nach Japan gebracht und dort in die Anfänge des *ninjutsu* integriert. Des weiteren sind indische und tibetische Einflüsse mit in das *ninjutsu* eingeflossen (z. B. das *kujiin*, *mantra*, *mikkyō*, *mandala* etc.).
 
