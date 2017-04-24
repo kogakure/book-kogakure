@@ -26,7 +26,7 @@ Beliebte Verkleidung der Ninja im Shichi hō de.
 ## Ashi
 (jap. 足, dt. Bein, Fuß).
 
-## Ashi-fumikae
+## Ashi fumikae
 (jap. 足踏み替え, dt. Beinwechsel).
 
 ## Ashigaru
@@ -1347,7 +1347,7 @@ Kombinierte Waffe, aus einer Streitaxt und Sichel.
 (jap. 隠身術, dt. Die Kunst des Versteckens).
 Kunst des Ninja sich zu verstecken, zu tarnen und unsichtbar zu machen.
 
-## Oten
+## Ōten
 (jap. 横転, dt. Radschlag).
 
 ## Ōzutsu
@@ -1670,10 +1670,10 @@ Militärischer Befehlshaber Japans.
 ## Shoshingogata
 (jap. 初心五型, dt. Beginner Geist Fünf Formen).
 
-## Shoten no jutsu
+## Shōten no jutsu
 (jap. 上天の術, dt. Die Kunst, in den Himmel zu steigen).
 
-## Shotenjutsu
+## Shōtenjutsu
 (jap. 昇天術, dt. Die Kunst sich in den Himmel zu erheben).
 
 ## Shōtoku Taishi
@@ -1716,10 +1716,10 @@ Oberhaupt eines Ryū.
 ## Sokugyakuken
 (jap. 足逆拳, dt. Hackentritt).
 
-## Sokuho Kaiten
+## Sokuhōkaiten
 (jap. 側方回転, dt. Seitwärtsrolle).
 
-## Sokuhoukemi
+## Sokuhōukemi
 (jap. 側方受身, dt. Seitwärtsfall).
 
 ## Sokuyakuken
