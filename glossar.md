@@ -1195,7 +1195,7 @@ Handstellungen aus dem Tantrismus und Mikkyō, von denen ins Kujiin neun Zeichen
 (jap. 武者修業, dt. Irrweg des Kriegers).
 Eine Lehrmethode, bei der der Krieger sich auf eine lange Reise begab, um sich zu verbessern. Die widrigen Umstände einer solchen Reise formten den Charakter und stärkten den Geist.
 
-## Musubi bashigo
+## Musubibashigo
 (jap. 結び梯子, dt. Schlaufenleiter).
 
 ## Musubinawa
@@ -1883,7 +1883,7 @@ Wegdisteln, die der Ninja in großer Anzahl auf den Boden warf, um einen Gegner 
 (jap. 投網, dt. Wurfnetz).
 Der Ninja konnte damit seine Gegner einfangen.
 
-## Tobi bashigo
+## Tobibashigo
 (jap. 跳び梯子).
 Leiter mit Haken an den Enden, die geworfen werden konnte.
 

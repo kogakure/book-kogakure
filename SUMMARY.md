@@ -37,6 +37,17 @@
 - [Ukemi](training/ukemi.md)
 - [Shinobi iri](training/shinobi-iri.md)
 
+## Waffen und Werkzeuge
+
+- [Waffen](waffen-werkzeuge/waffen.md)
+- [Wasserwerkzeuge](waffen-werkzeuge/wasserwerkzeuge.md)
+- [Einbruchswerkzeuge](waffen-werkzeuge/einbruchswerkzeuge.md)
+- [Kletterwerkzeuge](waffen-werkzeuge/kletterwerkzeuge.md)
+- [Feuerwerkzeuge](waffen-werkzeuge/feuerwerkzeuge.md)
+- [Ninjakleidung](waffen-werkzeuge/ninjakleidung.md)
+- [Inrō](waffen-werkzeuge/inro.md)
+- [Sonstige Ausrüstung](waffen-werkzeuge/sonstige-ausruestung.md)
+
 ----
 
 - [Glossar](glossar.md)
