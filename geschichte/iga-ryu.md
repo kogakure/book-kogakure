@@ -73,9 +73,9 @@ Die *Toda*-Familie ist auch interessant. Außer, dass sie die *soke* des *Kumoga
 
 Hier sind einige *ryū*, die Teil des *Iga-ryū* und der Traditionen der *Iga*-Provinz waren:
 
-Hakuun-ryū, Togakure-ryū, Kumogakure-ryū, Genjitsu-ryū, Tenton-Happo-ryū, Goton-Juppo-ryū, Kadone-ryū, Kukishinden-ryū, Gyokko-ryū, Koto-ryū, Rikyoku-ryū, Tsuji-Ichimu-ryū, Hattori-ryū, Taki-ryū, Yoshimori-ryū, Uchikawa-ryū, Gikan-ryū, Gyokushin-ryū, Takino-ryū, Sawa-ryū, Gen-ryū, Momochi-ryū, ryūmon-ryū, Iga-ryū.
+Hakuun-ryū, Togakure-ryū, Kumogakure-ryū, Genjitsu-ryū, Tenton-happo-ryū, Goton-juppo-ryū, Kadone-ryū, Kukishinden-ryū, Gyokko-ryū, Koto-ryū, Rikyoku-ryū, Tsuji-ichimu-ryū, Hattori-ryū, Taki-ryū, Yoshimori-ryū, Uchikawa-ryū, Gikan-ryū, Gyokushin-ryū, Takino-ryū, Sawa-ryū, Gen-ryū, Momochi-ryū, Ryūmon-ryū, Iga-ryū.
 
-Diese Liste ist nicht komplett, denn viele *ryū* verschwanden in der Geschichte. Die *Iga-ryū* und *Kumogakure-ryū* waren ein einziger *ryū*, weil *Iga-ryū* einfach in *Kumogakure-ryū* umbenannt wurde. Die *Gikan-ryū* und *Gyokushin-ryū* wurden beide aus dem *Gyokko_ryū* entwickelt.
+Diese Liste ist nicht komplett, denn viele *ryū* verschwanden in der Geschichte. Die *Iga-ryū* und *Kumogakure-ryū* waren ein einziger *ryū*, weil *Iga-ryū* einfach in *Kumogakure-ryū* umbenannt wurde. Die *Gikan-ryū* und *Gyokushin-ryū* wurden beide aus dem *Gyokko-ryū* entwickelt.
 
 Eine exakte Niederschrift der Geschichten der *ryū* ist fast unmöglich. Dies hat verschiedene Gründe, zum einen weil die Kriegskünste oft als *kuden* (Mund-zu-Mund Lehren) weitergegeben und nicht niedergeschrieben wurden. Eine andere Sache ist, dass die *soke* oft mehr als ein *menkyokaiden* (Entgültige Meisterschaft einer Kampfkunst) ausstellten, um dem *ryū* eine bessere Chance zu überleben zu geben. Andere *ryū* wiederum hatten nur eine einzige Person, die der nächste *soke* werden sollte, und wenn der Meister unerwartet starb, so starb auch sein *ryū*.
 

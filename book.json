@@ -17,6 +17,7 @@
   "plugins": [
     "bibtex-cite",
     "hints",
+    "youtubex",
     "-wordcount"
   ],
   "pluginsConfig": {

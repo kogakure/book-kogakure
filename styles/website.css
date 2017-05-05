@@ -6,3 +6,11 @@
 .markdown-section .hints-alert a:hover {
   color: #444444;
 }
+
+.markdown-section table {
+  font-size: 13px;
+}
+
+:lang(de) > q {
+  quotes: "»" "«" "›" "‹";
+}

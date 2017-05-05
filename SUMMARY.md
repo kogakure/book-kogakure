@@ -45,8 +45,21 @@
 - [Kletterwerkzeuge](waffen-werkzeuge/kletterwerkzeuge.md)
 - [Feuerwerkzeuge](waffen-werkzeuge/feuerwerkzeuge.md)
 - [Ninjakleidung](waffen-werkzeuge/ninjakleidung.md)
-- [Inrō](waffen-werkzeuge/inro.md)
 - [Sonstige Ausrüstung](waffen-werkzeuge/sonstige-ausruestung.md)
+- [Inrō](waffen-werkzeuge/inro.md)
+
+## Geistige Kräfte
+
+- [Mikkyō](geistige-kraefte/mikkyo.md)
+- [Sanmitsu](geistige-kraefte/sanmitsu.md)
+- [Kujiin](geistige-kraefte/kujiin.md)
+- [Godai](geistige-kraefte/godai.md)
+- [Gogyō](geistige-kraefte/gogyo.md)
+- [Tenchijin](geistige-kraefte/tenchijin.md)
+- [Bewusstsein und Geist](geistige-kraefte/bewusstsein-und-geist.md)
+- [Der Siebste Sinn](geistige-kraefte/der-siebte-sinn.md)
+- [Erleuchtung](geistige-kraefte/erleuchtung.md)
+- [Daoismus](geistige-kraefte/daoismus.md)
 
 ----
 

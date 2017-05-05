@@ -63,4 +63,4 @@ Gottseidank ist das erhoffte eingetreten:
 
 Die Medien haben nach und nach aufgehört *ninja* als interessantes Thema zu vermarkten und das Interesse verloren – selbst die *American Fighter*-Reihe endete nach fünf Folgen endlich.
 
-Heute haben sich jene, die den wahren Kern des *ninjutsu* bewahren wollen, in *Hatsumi Masaaki*s *bujinkan budō dōjō* vereint und sich über die ganze Erde verteilt.
+Heute haben sich jene, die den wahren Kern des *ninjutsu* bewahren wollen, in *Hatsumi Masaaki*s Bujinkan *budō dōjō* vereint und sich über die ganze Erde verteilt.
