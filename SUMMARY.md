@@ -61,6 +61,17 @@
 - [Erleuchtung](geistige-kraefte/erleuchtung.md)
 - [Daoismus](geistige-kraefte/daoismus.md)
 
+## Strategie und Taktik
+
+- [Gotonpō](strategie-taktik/gotonpo.md)
+- [Onshinjutsu](strategie-taktik/onshinjutsu.md)
+- [Shichihōde](strategie-taktik/shichihode.md)
+- [Chōhō](strategie-taktik/choho.md)
+- [Heihō](strategie-taktik/heiho.md)
+- [Bōryaku](strategie-taktik/boryaku.md)
+- [Tōiri](strategie-taktik/toiri.md)
+- [Chikairi](strategie-taktik/chikairi.md)
+
 ----
 
 - [Glossar](glossar.md)

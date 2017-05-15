@@ -204,6 +204,10 @@ Methoden der Feldbefestigung.
 (jap. 秩見し, dt. Bazahlte Augen).
 Bewohner eines feindlichen Gebietes, die für einen Ninja arbeiten.
 
+## Chōda
+(jap. 長蛇, dt. Lange Schlange).
+Eine Schlachtformation aus dem Bōryaku.
+
 ## Chōhō
 (jap. 諜報, dt. Spionage).
 
@@ -280,7 +284,7 @@ Philosphische Lehre aus China, die fälschlicherweise oft mit der taoistischen R
 (jap. 怒者, dt. Wütende Person).
 Prinzip des Gojō goyoku, das auf dem Ausnutzen von Reizbarkeit beruht.
 
-## Dōtonjutsu
+## Dotonjutsu
 (jap. 土遁術, dt. Die Kunst mit Erde zu fliehen).
 Fluchttechnik aus dem Gotonpō, bei dem man sich der Erde als Fluchtmittel bedient.
 
@@ -301,7 +305,7 @@ Wurfstern (Shuriken), der angezündet werden konnte und giftige Gase erzeugte.
 
 ## Engetsu
 (jap. 偃月, dt. Halbmond).
-Eine Schlachtformation aus dem Bō ryaku.
+Eine Schlachtformation aus dem Bōryaku.
 
 ## Enryākuji
 (jap. 延暦寺).
@@ -358,7 +362,7 @@ Beleuchtungswerkzeug, dessen Lichtquelle immer senkrecht zum Boden gehalten wird
 
 ## Gankō
 (jap. 雁行, dt. Flug der Vögel).
-Eine Schlachtformation aus dem Bō ryaku.
+Eine Schlachtformation aus dem Bōryaku.
 
 ## Gasshō no kamae
 (jap. 合掌の構え, dt. Gebetsstellung).
@@ -443,7 +447,7 @@ Einer der neun Ryū des Bujinkan.
 
 ## Gyorin
 (jap. 魚鱗, dt. Fischschuppe).
-Eine Schlachtformation aus dem Bō ryaku.
+Eine Schlachtformation aus dem Bōryaku.
 
 ## Hagakure
 (jap. 葉隠, dt. Verborgene Blätter).
@@ -501,7 +505,7 @@ Lehrer des Ninjutsu. Schüler von Hatsumi Masaaki. Erster Nicht-Japaner, der Shi
 
 ## Heihō
 (jap. 兵法, dt. Methode des Kriegers).
-Beeinhaltet sowohl Kampfmethoden, als auch Kampfstrategien (Bō ryaku).
+Beeinhaltet sowohl Kampfmethoden, als auch Kampfstrategien (Bōryaku).
 
 ## Heike
 (jap. 平家).
@@ -577,7 +581,7 @@ Stellung (Kamae) aus dem Ninjutsu.
 
 ## Hoshi
 (jap. 鋒矢, dt. Pfeilspitze).
-Eine Schlachtformation aus dem Bō ryaku.
+Eine Schlachtformation aus dem Bōryaku.
 
 ## Hyōjōhokō
 (jap. 氷上歩行, dt. Auf Eis gehen).
@@ -739,7 +743,7 @@ Der Umgang mit Feuer, Schusswaffen und Explosivstoffen.
 
 ## Kakuyoku
 (jap. 鶴翼, dt. Kranichschwinge).
-Eine Schlachtformation aus dem Bō ryaku.
+Eine Schlachtformation aus dem Bōryaku.
 
 ## Kama
 (jap. 鎌, dt. Sichel).
@@ -977,7 +981,7 @@ Einer der neun Ryū des Bujinkan.
 
 ## Koyaku
 (jap. 衡やく, dt. Rinderjoch).
-Eine Schlachtformation aus dem Bō ryaku.
+Eine Schlachtformation aus dem Bōryaku.
 
 ## Kū
 (jap. 空, dt. Leere, Vakuum).
@@ -1411,7 +1415,7 @@ Intuitiven Sehen, das es dem Kämpfer erlaubt einem Schlag auszuweichen bevor er
 
 ## Saku
 (jap. 方円, dt. Schlüsselloch).
-Eine Schlachtformation aus dem Bō ryaku.
+Eine Schlachtformation aus dem Bōryaku.
 
 ## Samurai
 (jap. 侍).
