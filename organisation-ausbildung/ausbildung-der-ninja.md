@@ -26,7 +26,7 @@ Als Teenager lernten sie den Gebrauch der speziellen Waffen ihres *ryū*. Klinge
 
 Sie übten Schwimmen und Unterwassertaktiken, und lernten wie sie die Natur benutzten konnten, um Informationen zu bekommen oder sich zu verbergen. Sie verbrachten unzählige Stunden damit an engen Orten zu verweilen oder von Bäumen herabzuhängen, und trainierten so ihre Geduld, Ausdauer und Widerstandskraft.
 
-Sie lernten sich leise zu bewegen und große Entfernungen zu laufen, von Baum zu Baum und Dach zu Dach zu springen. *ninja* sollten Fähig gewesen sein, die 560 Kilometer zwischen *Edō* und *Osaka* in nur drei Tagen zurückzulegen. Das hört sich zwar etwas übertrieben an, aber *Hatsumi* besteht darauf, dass 110 Kilometer pro Tag für einen *ninja* nichts außergewöhnliches darstellte.
+Sie lernten sich leise zu bewegen und große Entfernungen zu laufen, von Baum zu Baum und Dach zu Dach zu springen. *ninja* sollten Fähig gewesen sein, die 560 Kilometer zwischen Edo und Osaka in nur drei Tagen zurückzulegen. Das hört sich zwar etwas übertrieben an, aber Hatsumi besteht darauf, dass 110 Kilometer pro Tag für einen *ninja* nichts außergewöhnliches darstellte.
 
 Dem *ninja* kam es vor allem auf die Schnellkraft an, die es ihm erlaubte, blitzschnell zu reagieren.
 

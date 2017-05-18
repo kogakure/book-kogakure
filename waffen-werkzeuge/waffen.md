@@ -170,7 +170,7 @@ Handwaffe mit einem Haken, mit dem man einen Schwertangriff abfangen konnte.
 
 ![Kagiyari](/images/waffen-kagiyari.jpg)
 
-Auch *kamayari*. Die *ninja* der *Togakure-ryū* und *Kumogakure-ryū* nutzten häufig den Hakenspeer. Man konnte damit in Bäume gelangen, über Mauern oder auf Schiffe. Es war auch möglich so von Baum zu Baum zu gelangen. Verborgen auf einem erhöhten Posten konnte man mit den Haken ein Opfer erwischen und in die Höhe ziehen. Er eignete sich auch zum Fischfang, Türenaufbrechen oder um Gepäck zu transportieren.
+Auch *kamayari*. Die *ninja* der Togakure-*ryū* und Kumogakure-*ryū* nutzten häufig den Hakenspeer. Man konnte damit in Bäume gelangen, über Mauern oder auf Schiffe. Es war auch möglich so von Baum zu Baum zu gelangen. Verborgen auf einem erhöhten Posten konnte man mit den Haken ein Opfer erwischen und in die Höhe ziehen. Er eignete sich auch zum Fischfang, Türenaufbrechen oder um Gepäck zu transportieren.
 
 
 ## Kama
@@ -252,7 +252,7 @@ Bei dieser Waffe wurde ein giftiges Tier, wie z. B. eine Schlange am Ende des Se
 
 ## Manrikigusari
 
-Auch *kusarifundo*. <q>Eine Kette mit der Kraft von 10.000</q>. Kette mit Längen von 40 bis 400 cm und Gewichten an den Enden. Wurde im 17. Jh. von Masaki Toshimitsu, einem Torwächter in Edō, als Abwehrwaffe gegen Schwerter entwickelt.
+Auch *kusarifundo*. <q>Eine Kette mit der Kraft von 10.000</q>. Kette mit Längen von 40 bis 400 cm und Gewichten an den Enden. Wurde im 17. Jh. von Masaki Toshimitsu, einem Torwächter in Edo, als Abwehrwaffe gegen Schwerter entwickelt.
 
 
 ## Metsubushi
@@ -326,7 +326,7 @@ Die schwere Kriegsaxt wurde nach dem Fall der T’ang Dynastie aus China mitgebr
 
 ![Ōzutsu](/images/waffen-ozutsu.jpg)
 
-Die *ninja* des *Togakure-ryū* benutzten schon sehr früh hölzerne Kanonen, um in größeren Schlachten siegreich zu sein. Gegen größere Reiterverbände oder Burgtore war diese Waffe sehr effektiv.
+Die *ninja* des Togakure-*ryū* benutzten schon sehr früh hölzerne Kanonen, um in größeren Schlachten siegreich zu sein. Gegen größere Reiterverbände oder Burgtore war diese Waffe sehr effektiv.
 
 
 ## Onogama
@@ -408,14 +408,14 @@ Auch *shinobikai*. Die *ninja* setzten gerne Stäbe und Stöcke ein, weil das Tr
 
 ![Shukō](/images/waffen-shuko.jpg)
 
-Auch *Tekagi*. Eine furchtbare Waffe ist der *shukō*. An einer Art Leder-Armring waren eine spitze Eisenzacken angebracht, wodurch der *ninja* seine Hand in eine Tigerkralle verwandelte. Die Zacken konnten im Gesicht des Angreifers schreckliche Wunden hinterlassen. Mit dieser Waffe konnten *ninja* auch *Schwerter nehmen*, also den Schwertschlag stoppen. Zugleich konnte der *ninja* so besser an Mauern oder Bäumen hinaufklettern. Das Gegenstück für die Füße hieß *ashikō*.
+Auch *tekagi*. Eine furchtbare Waffe ist der *shukō*. An einer Art Leder-Armring waren eine spitze Eisenzacken angebracht, wodurch der *ninja* seine Hand in eine Tigerkralle verwandelte. Die Zacken konnten im Gesicht des Angreifers schreckliche Wunden hinterlassen. Mit dieser Waffe konnten *ninja* auch *Schwerter nehmen*, also den Schwertschlag stoppen. Zugleich konnte der *ninja* so besser an Mauern oder Bäumen hinaufklettern. Das Gegenstück für die Füße hieß *ashikō*.
 
 
 ## Shuriken
 
 ![Shuriken](/images/waffen-shuriken.jpg)
 
-Die bekanntesten Waffen waren die Wurfklingen. Als *hira-shuriken* in Sternenform oder als *bō-shuriken* in Dolchform. Jede Waffe erforderte ihre eigene Wurftechnik. Die Wurfklingen konnten vergiftet werden und auch im Nahkampf eingesetzt werden. Der *senbanshaken* war der typische Wurfstern des *Togakure-ryū*. Er hatte vier Spitzen und sah wie ein Diamant aus. In der Mitte befand sich ein Loch. Die Seiten waren scharf geschliffen. Der Wurfstern war sehr dünn und leicht, so dass immer neun zusammen in der Innentasche getragen werden konnten.
+Die bekanntesten Waffen waren die Wurfklingen. Als *hira-shuriken* in Sternenform oder als *bō-shuriken* in Dolchform. Jede Waffe erforderte ihre eigene Wurftechnik. Die Wurfklingen konnten vergiftet werden und auch im Nahkampf eingesetzt werden. Der *senbanshaken* war der typische Wurfstern des Togakure-*ryū*. Er hatte vier Spitzen und sah wie ein Diamant aus. In der Mitte befand sich ein Loch. Die Seiten waren scharf geschliffen. Der Wurfstern war sehr dünn und leicht, so dass immer neun zusammen in der Innentasche getragen werden konnten.
 
 
 ## Sodezutsu
@@ -454,7 +454,7 @@ Schlagring. In Aussehen und Funktion genau wie ein moderner Schlagring.
 
 ## Teppō
 
-Auch *Tanegashima*.
+Auch *tanegashima*.
 
 
 ## Tessen

@@ -26,4 +26,4 @@ Die Muskeln des Bauches, des Solarplexus, des Halses und anderer empfindlicher Z
 
 Abhärtung sollte zwar unangenehm aber nicht schmerzhaft sein, zwischen den Trainingseinheiten muss genügend Entspannung gewährleistet sein. Nur eine langsame Steigerung der Abhärtung führt zum Erfolg.
 
-Die übrigen Körperwaffen werden ebenfalls an Bäumen oder Kissen gestärkt. Mit genügend Ausdauer werden die Körperwaffen so zu effektiven Werkzeugen. Der Großmeister *Takamatsu* war in der Lage mit seinen Fingern ganze Stücke der Rinde aus einem Baum zu reißen. Durch sein jahrelanges Training wurden seine Fingernägel so scharf und hart wie Dolche.
+Die übrigen Körperwaffen werden ebenfalls an Bäumen oder Kissen gestärkt. Mit genügend Ausdauer werden die Körperwaffen so zu effektiven Werkzeugen. Der Großmeister Takamatsu war in der Lage mit seinen Fingern ganze Stücke der Rinde aus einem Baum zu reißen. Durch sein jahrelanges Training wurden seine Fingernägel so scharf und hart wie Dolche.

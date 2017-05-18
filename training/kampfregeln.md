@@ -24,7 +24,7 @@ Es kann vorkommen die eigene geistige Ausstrahlung nicht ausreicht, um das Aufko
 
 Normalerweise verspürt man ein starkes Unbehagen, bis eine gefährliche Situation an einem vorbeigezogen ist. Wenn man sich aber erhebt und der Bedrohung ein schnelles Ende bereitet kann man schnell wieder in eine entspannte, ruhige Lage zurückkehren.
 
-Das Erlernen und Ertragen solcher Situationen, in denen man Niederlagen, Angst oder Demütigungen hinnehmen muss, um das zu erreichen was man will sind tiefverwurzelt im *ninjutsu*. Die Silbe *nin* bedeutet *Ausdauer, ausharren, ertragen, zurechtkommen mit*. Dies ist einer der schwersten Übungen, denn vor allem im Angesicht des Todes auszuharren fordert sehr viel Überwindung.
+Das Erlernen und Ertragen solcher Situationen, in denen man Niederlagen, Angst oder Demütigungen hinnehmen muss, um das zu erreichen was man will sind tiefverwurzelt im *ninjutsu*. Die Silbe *nin* bedeutet Ausdauer, ausharren, ertragen, zurechtkommen mit. Dies ist einer der schwersten Übungen, denn vor allem im Angesicht des Todes auszuharren fordert sehr viel Überwindung.
 
 
 ## Zweite Regel

@@ -2,9 +2,9 @@
 
 ## Der Bürgerkrieg in Japan
 
-Mit Aufkommen der Samurai-Kriegerkaste, sowie des *bakufu* der Kamakura-Periode (1192-1333) begann das *Goldene Zeitalter des ninjutsu*, das über 400 Jahre lang andauerte. In dieser Zeit entstanden zwischen 25 und 70 verschiedene *ryū*, vor allem in den *Iga*- und *Kōga*-Provinzen. Im gleichen Zeitraum wurde der *zen*-Buddhismus in Japan eingeführt, die Grundlage für die *samurai*-Kaste.
+Mit Aufkommen der Samurai-Kriegerkaste, sowie des *bakufu* (Regierungszentrum des Shogun) der Kamakura-Periode (1192-1333) begann das *Goldene Zeitalter des ninjutsu*, das über 400 Jahre lang andauerte. In dieser Zeit entstanden zwischen 25 und 70 verschiedene *ryū* (Schulen), vor allem in den Iga- und Kōga-Provinzen. Im gleichen Zeitraum wurde der *zen*-Buddhismus in Japan eingeführt, die Grundlage für die *samurai*-Kaste.
 
-Die *Hattori*- und *Oe*-Clans beherrschten die *Iga*-Provinz, während die *Kōga*-Provinz von mehr als 50 Familien beherrscht wurde.
+Die Hattori- und Oe-Clans beherrschten die Iga-Provinz, während die Kōga-Provinz von mehr als 50 Familien beherrscht wurde.
 
 ![Zeichnung einer Schlacht im Genpei-Krieg](/images/genpei-krieg.jpg "Der Genpei-Krieg (1180-1185)")
 
@@ -15,22 +15,22 @@ Die *daimyō* bekämpften sich 400 Jahre erbittert, bis es dem Feldherren *Toyot
 
 ## Feuerwaffen und Spionage
 
-Die ersten Feuerwaffen (Luntengewehre aus Portugal) wurden 1543 von Kaufleuten nach Japan gebracht. Unter den *samurai* galt die Benutzung von *teppō* als ehrlos und diese Aufgabe oblag den niederen *ashigaru*.
+Die ersten Feuerwaffen (Luntengewehre aus Portugal) wurden 1543 von Kaufleuten nach Japan gebracht. Unter den *samurai* galt die Benutzung von *teppō* (Arkebuse)< als ehrlos und diese Aufgabe oblag den niederen *ashigaru* (Fußsoldaten, meist Bauern).
 
 Dem *ninja* bereitete der Gebrauch von Feuerwaffen keine Gewissensbisse, und er integrierte mit Aufkommen der Feuerwaffen diese einfach in sein Waffenarsenal. Fortan gehörten Holzkanonen, Bronzepistolen und Personenminen zu seinem Arsenal.
 
-Viele Feldherren heuerten *ninja* an, um ihre Rivalen auszuspionieren. Zwei von diesen waren *Takeda Shingen* und sein Rivale *Uesugi Kenshin*. *Takeda*s Spione überbrachten ihre Nachrichten mit Hilfe von Signalfeuern, während *Uesugi*s *ninja* oftmals als Wanderärzte verkleidet waren. Auch *Tokugawa Ieyasu*, der berühmte General griff häufig auf *Iga*- und *Kōga*-ninja zurück.
+Viele Feldherren heuerten *ninja* an, um ihre Rivalen auszuspionieren. Zwei von diesen waren Takeda Shingen und sein Rivale Uesugi Kenshin. Takedas Spione überbrachten ihre Nachrichten mit Hilfe von Signalfeuern, während Uesugis *ninja* oftmals als Wanderärzte verkleidet waren. Auch Tokugawa Ieyasu, der berühmte General griff häufig auf Iga- und Kōga-*ninja* zurück.
 
 
 ## Kōga-Provinzen und deren Herrscher
 
-Die *Kōga*-Provinz wurde von mehr als 50 verschiedenen *ninja*-Clans beherrscht, die *Iga*-Provinz hingegen teilten sich drei alteingesessene Familien: die *Hattori*, die *Momochi* und die *Fujibayashi*.
+Die Kōga-Provinz wurde von mehr als 50 verschiedenen *ninja*-Clans beherrscht, die Iga-Provinz hingegen teilten sich drei alteingesessene Familien: die Hattori, die Momochi und die Fujibayashi.
 
-Der *Momochi*-Clan herrschte über den südlichen Teil der Provinz, die *Hattori* über das Zentrum und die *Fujibayashi* über den nördlichen Teil der Provinz. Außerdem konnten die *Fujibayashi* noch auf *ninja* der *Kōga*-Provinz zurückgreifen.
+Der Momochi-Clan herrschte über den südlichen Teil der Provinz, die Hattori über das Zentrum und die Fujibayashi über den nördlichen Teil der Provinz. Außerdem konnten die Fujibayashi noch auf *ninja* der Kōga-Provinz zurückgreifen.
 
-Ihre Herrführer waren *Momochi Sandayu*, *Hattori Hanzo* und *Fujibayashi Nagato*, die alle drei im 16. Jahrhundert lebten.
+Ihre Herrführer waren Momochi Sandayu, Hattori Hanzo und Fujibayashi Nagato, die alle drei im 16. Jahrhundert lebten.
 
-Um seine Feinde zu verwirren und seine Identität zu waren, hatte *Sandayu* drei verschiedene Häuser, jedes mit Ehefrau und Kindern.
+Um seine Feinde zu verwirren und seine Identität zu waren, hatte Sandayu drei verschiedene Häuser, jedes mit Ehefrau und Kindern.
 
 Wenn es ihm in einer Gegend zu gefährlich wurde, wechselte er einfach seinen Wohnsitz und seine Identität.
 
@@ -124,25 +124,25 @@ Die historisch belegten japanischen *ninjutsu-ryū* waren im Hinblick auf Größ
 
 Die folgende Liste enthält einige der historisch gesehen wichtigsten *ninjutsu-ryū* sowie ihre Führer, Operationsgebiete und militärischen sowie politischen Verbindungen:
 
-- Der **Nakagawa-ryū** hatte sein Operationsgebiet im Bezirk *Aomori*. Er wurde von *Nakagawa Kohayato* organisiert.
-- Der **Haguro-ryū** hatte sein Kernland im Bezirk *Yamagata*. Man sagt ihm nach, er sei von den kriegerischen Asketen des *Haguro*-Berges entwickelt worden.
-- Der **Uesugi-ryū** wurde von *Usami Suruganokami Sadayuki* (Bezirk *Niigata*) für *Uesugi Kenshin* als militärische Spionageorganisation entwickelt.
-- Der **Kaji-ryū** wurde von *Kaji Ominokami Kagehide*, einem Schüler des Gründers des *Uesugi-ryū*, gegründet, doch er hatte ebenfalls Verbindungen zu den Vätern des *Hattori-ryū* (*Iga*-Provinz).
-- Der **Matsumoto-ryū** operierte im Bezirk *Tochigi*.
-- Der **Matsuda-ryū** operierte in der Provinz *Ibazaki*.
-- Die **Koyo-ryū**, **Ninko-ryū** und **Takeda-ryū** wurden von *Takeda Shingen* zwecks Agententätigkeit gegründet. Diese *ryū* machten regen Gebrauch von Spionen, die als Wandermönche oder Händler verkleidet waren.
-- Das **Fuma-Ninpo** (Bezirk *Kanagawa*) wurde von *Fuma Kotaro* gegründet und spezialisierte sich auf den Guerillakrieg.
-- Die **Akiba-ryū** und **Ichizen-ryū** (Bezirk *Aichi*) wurden von *Hachisuka Koroku Masakatsu* gegründet, einem berühmten Krieger dieser Gegend.
-- Der **Mino-ryū** (Bezirk *Gifu*) wurde während der Herrschaft des *Saito Dosan* entwickelt und beinhaltete die *Kurokawa-ninja*-Gruppe der *Kōga*-Gegend.
-- Der **Echizen-ryū** (Bezirk *Toyama*) wurde von *Iga-ninja* gegründet, denen die Flucht vor den Truppen des *Oda Nobunaga* geglückt war.
-- Der **Yoshitsune-ryū** (Bezirk *Fukui*) wurde von *Minamoto Yoshitsune* entwickelt. Dieser *ryū* war eine Mischung aus Spionagemethoden *Ise Saburo*s und verschiedenen *Yamabushi*-Lehren.
+- Der **Nakagawa-ryū** hatte sein Operationsgebiet im Bezirk Aomori. Er wurde von Nakagawa Kohayato organisiert.
+- Der **Haguro-ryū** hatte sein Kernland im Bezirk Yamagata. Man sagt ihm nach, er sei von den kriegerischen Asketen des Haguro-Berges entwickelt worden.
+- Der **Uesugi-ryū** wurde von Usami Suruganokami Sadayuki (Bezirk Niigata) für Uesugi Kenshin als militärische Spionageorganisation entwickelt.
+- Der **Kaji-ryū** wurde von Kaji Ominokami Kagehide, einem Schüler des Gründers des Uesugi-ryū, gegründet, doch er hatte ebenfalls Verbindungen zu den Vätern des Hattori-ryū (Iga-Provinz).
+- Der **Matsumoto-ryū** operierte im Bezirk Tochigi.
+- Der **Matsuda ryū** operierte in der Provinz Ibazaki.
+- Die **Koyo-ryū**, **Ninko-ryū** und **Takeda-ryū** wurden von Takeda Shingen zwecks Agententätigkeit gegründet. Diese *ryū* machten regen Gebrauch von Spionen, die als Wandermönche oder Händler verkleidet waren.
+- Das **Fuma-Ninpo** (Bezirk Kanagawa) wurde von Fuma Kotaro gegründet und spezialisierte sich auf den Guerillakrieg.
+- Die **Akiba-ryū** und **Ichizen-ryū** (Bezirk Aichi) wurden von Hachisuka Koroku Masakatsu gegründet, einem berühmten Krieger dieser Gegend.
+- Der **Mino-ryū** (Bezirk Gifu) wurde während der Herrschaft des Saito Dosan entwickelt und beinhaltete die Kurokawa-*ninja*-Gruppe der Kōga-Gegend.
+- Der **Echizen-ryū** (Bezirk Toyama) wurde von Iga-*ninja* gegründet, denen die Flucht vor den Truppen des Oda Nobunaga geglückt war.
+- Der **Yoshitsune-ryū** (Bezirk Fukui) wurde von Minamoto Yoshitsune entwickelt. Dieser *ryū* war eine Mischung aus Spionagemethoden Ise Saburos und verschiedenen *yamabushi*-Lehren.
 - Der **Kōga-ryū** war eine regionale *ninjutsu*-Tradition, die sich aus mehr als fünfzig Familien zusammensetzte.
-- Der **Iga-ryū** war ebenfalls eine regionale *ninjutsu*-Tradition, die sich aus mehreren wichtigen Familien zusammensetzte, u. a. dem *Hattori*- und dem *Momochi*-Clan.
-- Der **Negoro-ryū** wurde von *Suginobo Myosan*, einem Feuerwaffenfachmann, gegründet. Der **Saiga-ryū** bildete Feuerwaffen- und Sprengstoffspezialisten aus. Der **Natori-ryū** wurde von *Natori Sanjuro Masatake* gegründet, dem Autor des *shoninki-ninjutsu*-Nachschlagewerkes. Diese *ryū* hatten, zusammen mit dem **Kishu-ryū**-*ninjutsu*, ihren Stammsitz im Bezirk *Wakayama*.
-- Der **Bizen-ryū** stammte aus dem Bezirk *Okayama*.
-- Der **Fukushima-ryū** (Bezirk *Shimane*) wurde von *Nojirijiro Jirouemon Narimasa* entwickelt.
-- Der **Kuroda-ryū** (Bezirk *Fukuoka*) unterstützte die *Kuroda*-Herrscherfamilie.
-- Der **Nanban-ryū** operierte im Bezirk *Nagasaki*.
-- Das **Satsuma-Ninpo** (Bezirk *Kagoshima*) unterstützte die *Shimazu*-Herrscherfamilie.
+- Der **Iga-ryū** war ebenfalls eine regionale *ninjutsu*-Tradition, die sich aus mehreren wichtigen Familien zusammensetzte, u. a. dem Hattori- und dem Momochi-Clan.
+- Der **Negoro-ryū** wurde von Suginobo Myosan, einem Feuerwaffenfachmann, gegründet. Der **Saiga-ryū** bildete Feuerwaffen- und Sprengstoffspezialisten aus. Der **Natori-ryū** wurde von Natori Sanjuro Masatake gegründet, dem Autor des Shoninki-*ninjutsu*-Nachschlagewerkes. Diese *ryū* hatten, zusammen mit dem **Kishu-ryū**-*ninjutsu*, ihren Stammsitz im Bezirk Wakayama.
+- Der **Bizen-ryū** stammte aus dem Bezirk Okayama.
+- Der **Fukushima-ryū** (Bezirk Shimane) wurde von Nojirijiro Jirouemon Narimasa entwickelt.
+- Der **Kuroda-ryū** (Bezirk Fukuoka) unterstützte die Kuroda-Herrscherfamilie.
+- Der **Nanban-ryū** operierte im Bezirk Nagasaki.
+- Das **Satsuma-Ninpo** (Bezirk Kagoshima) unterstützte die Shimazu-Herrscherfamilie.
 
 Mit Ausnahme weniger waren diese *ryū* lange vor Beginn des Meji-Zeitalters im Jahre 1868 ausgestorben.

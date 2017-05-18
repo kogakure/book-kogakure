@@ -9,8 +9,8 @@
 - [Entstehung der Ryū](geschichte/entstehung-der-ryu.md)
 - [Berühmte Ninja](geschichte/beruehmte-ninja.md)
 - [Ninja-Biografien](geschichte/ninja-biografien.md)
-- [Iga-Ryū](geschichte/iga-ryu.md)
-- [Kōga-Ryū](geschichte/koga-ryu.md)
+- [Iga-ryū](geschichte/iga-ryu.md)
+- [Kōga-ryū](geschichte/koga-ryu.md)
 - [Iga no Ran](geschichte/iga-no-ran.md)
 - [Invasion von Iga](geschichte/invasion-von-iga.md)
 - [Niedergang](geschichte/niedergang.md)
@@ -71,6 +71,22 @@
 - [Bōryaku](strategie-taktik/boryaku.md)
 - [Tōiri](strategie-taktik/toiri.md)
 - [Chikairi](strategie-taktik/chikairi.md)
+
+## Das Erbe der Ninja
+
+- [Takamatsu Toshitsugu](erbe-der-ninja/takamatsu-toshitsugu.md)
+- [Hatsumi Masaaki](erbe-der-ninja/hatsumi-masaaki.md)
+- [Bujinkan](erbe-der-ninja/bujinkan.md)
+- [Richtlininen des Bujinkan](erbe-der-ninja/richtlinien-des-bujinkan.md)
+- [Togakure-ryū](erbe-der-ninja/togakure-ryu.md)
+- [Gyokko-ryū](erbe-der-ninja/gyokko-ryu.md)
+- [Kukishinden-ryū](erbe-der-ninja/kukishinden-ryu.md)
+- [Shinden-fudo-ryū](erbe-der-ninja/shinden-fudo-ryu.md)
+- [Gyokushin-ryū](erbe-der-ninja/gyokushin-ryu.md)
+- [Koto-ryū](erbe-der-ninja/koto-ryu.md)
+- [Takagi-yoshi-ryū](erbe-der-ninja/takagi-yoshin-ryu.md)
+- [Gikan-ryū](erbe-der-ninja/gikan-ryu.md)
+- [Kumogakure-ryū](erbe-der-ninja/kumogakure-ryu.md)
 
 ----
 

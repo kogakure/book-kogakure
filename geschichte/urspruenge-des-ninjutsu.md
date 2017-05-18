@@ -22,7 +22,7 @@ Dafür spricht unter anderem die Existenz von *ninjutsu* in Korea und China (Lin
 
 ![A Chinese bamboo book, open and unfolded to display the contents. This copy of The Art of War (on the cover, "孫子兵法") by Sun Tzu is part of a collection at the University of California, Riverside. The cover also reads "乾隆御書", meaning it was either commissioned or transcribed by the Qianlong Emperor.](/images/bamboo-book-sun-tzu.jpg "Bambus-Buch, Kopie von Sun Tzus 'Die Kunst des Krieges'")
 
-Der 2000 Jahre alte Kriegsklassiker <b>Sun Tzu</b>, <cite>Die Kunst des Krieges</cite> (ca. 400 bis 320 v. Chr.) ist wohl eines der ersten Werke, das sich mit Spionage beschäftigt. Diese Schrift wurde um 600 n. Chr. nach Japan gebracht und dort in die Anfänge des *ninjutsu* integriert. Des weiteren sind indische und tibetische Einflüsse mit in das *ninjutsu* eingeflossen (z. B. das *kujiin*, *mantra*, *mikkyō*, *mandala* etc.).
+Der 2000 Jahre alte Kriegsklassiker **Sun Tzu**, <cite>Die Kunst des Krieges</cite> (ca. 400 bis 320 v. Chr.) ist wohl eines der ersten Werke, das sich mit Spionage beschäftigt. Diese Schrift wurde um 600 n. Chr. nach Japan gebracht und dort in die Anfänge des *ninjutsu* integriert. Des weiteren sind indische und tibetische Einflüsse mit in das *ninjutsu* eingeflossen (z. B. das *kujiin*, *mantra*, *mikkyō*, *mandala* etc.).
 
 {% hint style='tip' %}
 [Die Kunst des Krieges](https://www.amazon.de/gp/product/3937872876?ie=UTF8&tag=kogakurede-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=3937872876) von **Sun Tzu** auf Amazon.
@@ -31,18 +31,18 @@ Der 2000 Jahre alte Kriegsklassiker <b>Sun Tzu</b>, <cite>Die Kunst des Krieges<
 
 ## Der erste Shinobi
 
-Der Prinzregent *Shōtoku Taishi* (572-622 n. Chr.) nutzte als erstes Agenten, um sich in Streitfragen über die wahren Hintergründe zu informieren. Unter seiner Herrschaft entstand auch der Name *ninjutsu* oder *shinobi no jutsu*.
+Der Prinzregent Shōtoku Taishi (572-622 n. Chr.) nutzte als erstes Agenten, um sich in Streitfragen über die wahren Hintergründe zu informieren. Unter seiner Herrschaft entstand auch der Name *ninjutsu* oder *shinobi no jutsu*.
 
-Einer von *Shōtoku*s Feldherren, *Otomo no Saijin*, errang durch den Einsatz von Kundschaftern und die dadurch erlangten Informationen einige große Siege. Daraufhin ernannte *Shōtoku Taishi* diesen Krieger zum *shinobi*, was soviel wie *sich verstecken* oder *sich tarnen* bedeutet.
+Einer von Shōtokus Feldherren, Otomo no Saijin, errang durch den Einsatz von Kundschaftern und die dadurch erlangten Informationen einige große Siege. Daraufhin ernannte Shōtoku Taishi diesen Krieger zum *shinobi*, was soviel wie *sich verstecken* oder *sich tarnen* bedeutet.
 
 Ursprünglich war *ninjutsu* wohl lediglich ein reines Kundschafterwesen. Während der Heian-Periode (794-1192) entwickelte sich daraus eine tödliche Kunst.
 
 
 ## Ninjutsu und Buddhismus
 
-Nach dem Tod von *Shōtoku* kam es in Japan zu einem grausamen Streit zwischen Buddhisten und Shintoisten. Beide Lehren beanspruchten für sich die neue Staatsreligion zu werden. Dieser Streit endete in einem Bürgerkrieg. Ein *yamabushi* mit Namen [Enno no Gyōja](https://de.wikipedia.org/wiki/En_no_Gy%C5%8Dja) ging an die Öffentlichkeit und versuchte durch eine neue Strömung des Buddhismus, dem *shugendō*, die Ordnung wieder herzustellen. Die Religion fand beim Volk großen Anklang. Der Adel befürchtete die *yamabushi* könnten die Staatsmacht an sich reißen und stellten deshalb eine große Streitmacht gegen sie auf.
+Nach dem Tod von Shōtoku kam es in Japan zu einem grausamen Streit zwischen Buddhisten und Shintoisten. Beide Lehren beanspruchten für sich die neue Staatsreligion zu werden. Dieser Streit endete in einem Bürgerkrieg. Ein *yamabushi* mit Namen Enno no Gyōja ging an die Öffentlichkeit und versuchte durch eine neue Strömung des Buddhismus, dem *shugendō*, die Ordnung wieder herzustellen. Die Religion fand beim Volk großen Anklang. Der Adel befürchtete die *yamabushi* könnten die Staatsmacht an sich reißen und stellten deshalb eine große Streitmacht gegen sie auf.
 
-Die Priester zogen sich Angesichts dieser Übermacht in die Berge um *Kyōto* zurück und führten ihren Krieg gemäß den chinesischen Militärtaktiken fort.
+Die Priester zogen sich Angesichts dieser Übermacht in die Berge um Kyōto zurück und führten ihren Krieg gemäß den chinesischen Militärtaktiken fort.
 
 
 ## Die Krieger aus den Bergen
@@ -66,7 +66,7 @@ Das *omyodō* war eine alte übergreifende Wissenschaft, die sich aus den Elemen
 
 Bis zum Mittelalter entwickelte sich das *ninjutsu* langsam in eine andere Richtung. Seltener noch erlernten die Schüler die tiefen Grundlagen des *shugendō* und andere Wissenschaften, denn es dauerte oft ein ganzes Leben, bis man sich in einer dieser Techniken fast perfektioniert hatte.
 
-Viele Fürsten, wie z. B. die mächtige *Genji*-Familie pflegte engen Kontakt zu den Kriegern der Berge. Und häufiger waren die Dienste der *ninja* für kleinere Spähaufträge gefragt. Zu diesem Zeitpunkt hatte sich noch kein Begriff, wie *ninja* oder *ninjutsu* herausgebildet, es dauerte noch einige Zeit, bis sich die Mitglieder dieser Clans als *ninja* sahen.
+Viele Fürsten, wie z. B. die mächtige Genji-Familie pflegte engen Kontakt zu den Kriegern der Berge. Und häufiger waren die Dienste der *ninja* für kleinere Spähaufträge gefragt. Zu diesem Zeitpunkt hatte sich noch kein Begriff, wie *ninja* oder *ninjutsu* herausgebildet, es dauerte noch einige Zeit, bis sich die Mitglieder dieser Clans als *ninja* sahen.
 
 Um das *ninjutsu* zu verbessern und schneller Agenten auszubilden wurden neue Aspekte hinzugefügt. Die älteren Künste, die schwer und in langwieriger Arbeit zu erlernen waren, wurden langsam ersetzt durch physische und psychische Meisterleistungen, optischer Täuschungen und Taschenspielertricks.
 
@@ -74,4 +74,4 @@ Ausgefeilte Techniken, effiziente Kampfkunst, auf ihre Tödlichkeit ausreichen g
 
 Es dauerte noch bis zur Mitte der Heian-Periode, bis sich das *ninjutsu* fest etabliert hatte.
 
-Die *Hattori*-Familie legte in der *Iga*-Provinz den Grundstein für ihre *Iga-ninjutsu*-Schule.
+Die Hattori-Familie legte in der Iga-Provinz den Grundstein für ihre Iga-*ninjutsu*-Schule.

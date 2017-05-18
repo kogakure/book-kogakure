@@ -240,7 +240,7 @@ Begriff für Schwerter der Samurai mit Überlänge.
 
 ## Dakentaijutsu
 (jap. 打拳体術, dt. Die Kunst mit der Faust gegen den Körper zu schlagen).
-Kampftechniken aus dem Taijutsu. Tritte, Schläge und Blocktechniken.  Unterscheidung in Koppojutsu und Koshijutsu.
+Kampftechniken aus dem Taijutsu. Tritte, Schläge und Blocktechniken.  Unterscheidung in koppōjutsu und koshijutsu.
 
 ## Dan
 (jap. 段, dt. Rang, Stufe).

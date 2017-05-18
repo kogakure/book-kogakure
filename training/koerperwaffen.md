@@ -113,7 +113,7 @@ Diese Faust ist die Handfläche der geöffneten Faust. Mit der Handfläche kann 
 
 ## Fudōken (Unbeweglich)
 
-![Fudōken (Unbewegliche* Körperwaffe)](/images/ken-fudoken.jpg "Fudōken (Unbewegliche* Körperwaffe)")
+![Fudōken (Unbewegliche Körperwaffe)](/images/ken-fudoken.jpg "Fudōken (Unbewegliche Körperwaffe)")
 
 Die *normale* Faust wird gegen Knochen geschlagen. Sie kann mit verschiedenen Zonen treffen: mit der Vorderseite, der Unterseite, der Außenseite, etc. So können die Knochen zerbrochen werden und der Gegner zu Boden geschlagen werden.
 

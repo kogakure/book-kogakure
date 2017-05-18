@@ -3,11 +3,11 @@
 
 ## Was ist Ninjutsu?
 
-Der berühmte *ninja*-Meister *Momochi Sandayu*, der im Mittelalter als einer drei großen Führer den *iga-ryū* leitete drückte es in einem klaren, unmissverständlichen Satz so aus:
+Der berühmte *ninja*-Meister Momochi Sandayu, der im Mittelalter als einer drei großen Führer den Iga-*ryū* leitete drückte es in einem klaren, unmissverständlichen Satz so aus:
 
 > *Ninjutsu* ist nicht für die Befriedigung persönlicher Wünsche gedacht. Der *ninja* beschäftigt sich mit seiner Kunst, weil er gezwungen ist sein Land, seine Führungspersonen oder seine Familie zu beschützen. Wenn du *ninjutsu* nur für die Erfüllung persönlicher Wünsche betreibst, werden dir deine Techniken nicht nützen.
 >
-> – Momochi Sandayu
+> – **Momochi Sandayu**
 
 
 ## Erklärung der Schriftzeichen
@@ -33,7 +33,7 @@ Die Konstruktion des Schriftzeichens weist darauf hin, dass das Herz, oder der W
 
 Wohl keine Kunst in der Geschichte der Erde ist so oft missverstanden worden, wie das *ninjutsu*. Wenig Wahres ist zu finden, und Historiker müssen lange suchen, um Quellen über das *ninjustu* zu finden, die nicht übertriebene Propaganda, Verunglimpfungen oder Lügengeschichten sind.
 
-Dies alles ist auch kaum verwunderlich, denn die offiziellen Historiker dieser Zeit waren immer Teil der Militärdiktatur. Deshalb wurde der Widerstand der Familien der Provinzen Iga (Region im Zentrum Japans) oder *Koga* (Region im Zentrum Japans) immer abschätzig in der Geschichte erwähnt. Sie wurden als Kriminelle, Aufständische oder Attentäter in die Geschichtsschreibung aufgenommen.
+Dies alles ist auch kaum verwunderlich, denn die offiziellen Historiker dieser Zeit waren immer Teil der Militärdiktatur. Deshalb wurde der Widerstand der Familien der Provinzen Iga (Region im Zentrum Japans) oder Koga (Region im Zentrum Japans) immer abschätzig in der Geschichte erwähnt. Sie wurden als Kriminelle, Aufständische oder Attentäter in die Geschichtsschreibung aufgenommen.
 
 
 ## Geschichtsschreibung ist immer subjektiv
@@ -59,8 +59,8 @@ Gottseidank ist das erhoffte eingetreten:
 
 > Ich hoffe, dass nach dieser Flut, jene wenigen, die den wahren Kern des *ninjutsu* suchen, zurückbleiben und helfen den Ruf dieser alten Kunst wiederherzustellen.
 >
-> – Hatsumi Masaaki
+> – **Hatsumi Masaaki**
 
 Die Medien haben nach und nach aufgehört *ninja* als interessantes Thema zu vermarkten und das Interesse verloren – selbst die *American Fighter*-Reihe endete nach fünf Folgen endlich.
 
-Heute haben sich jene, die den wahren Kern des *ninjutsu* bewahren wollen, in *Hatsumi Masaaki*s Bujinkan *budō dōjō* vereint und sich über die ganze Erde verteilt.
+Heute haben sich jene, die den wahren Kern des *ninjutsu* bewahren wollen, in Hatsumi Masaakis Bujinkan *budō dōjō* vereint und sich über die ganze Erde verteilt.

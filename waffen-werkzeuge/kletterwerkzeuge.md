@@ -26,7 +26,7 @@ Dieser Wurfanker wurde an einem Seil befestigt und mit seinen vier Sacken verfin
 
 ![Kagiyari](/images/waffen-kagiyari.jpg)
 
-Die *ninja* des *Togakure-ryū* nutzten häufig den Hakenspeer. Man konnte damit in Bäume gelangen, über Mauern oder auf Schiffe. Es war auch möglich so von Baum zu Baum zu gelangen. Verborgen auf einem erhöhten Posten konnte man mit den Haken ein Opfer erwischen und in die Höhe ziehen. Er eignete sich auch zum Fischfang, Türenaufbrechen oder um Gepäck zu transportieren.
+Die *ninja* des Togakure-*ryū* nutzten häufig den Hakenspeer. Man konnte damit in Bäume gelangen, über Mauern oder auf Schiffe. Es war auch möglich so von Baum zu Baum zu gelangen. Verborgen auf einem erhöhten Posten konnte man mit den Haken ein Opfer erwischen und in die Höhe ziehen. Er eignete sich auch zum Fischfang, Türenaufbrechen oder um Gepäck zu transportieren.
 
 
 ## Kasha
