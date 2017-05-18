@@ -88,6 +88,15 @@
 - [Gikan-ryū](erbe-der-ninja/gikan-ryu.md)
 - [Kumogakure-ryū](erbe-der-ninja/kumogakure-ryu.md)
 
+## Regeln und Philosophien
+
+- [Essenz des Ninjutsu](regeln-philosophien/essenz-des-ninjutsu.md)
+- [Die Regeln der Ninja](regeln-philosophien/regeln-der-ninja.md)
+- [Die 5 Gebote der Ninja](regeln-philosophien/5-gebote-der-ninja.md)
+- [18 Trainingsebenen](regeln-philosophien/18-trainingsebenen.md)
+- [Ninpō Sanjūrokkei](regeln-philosophien/ninpo-sanjurokkei.md)
+- [Ninja no Hachimon](regeln-philosophien/ninja-no-hachimon.md)
+
 ----
 
 - [Glossar](glossar.md)
