@@ -3,7 +3,7 @@
 
 ## Ausdruck innerer Einstellung
 
-Die Kampfstellungen im *taijutsu* sind mehr als Regeln, wie man den Körper zu bewegen hat. Am besten beschreibt man sie, wenn man sie als Ausdruck der inneren Einstellung sieht. Im Kampf oder Leben ist es immer wichtig, dass Körper und Geist eins sind. Wenn die *kamae* richtig ausgeführt werden, so spiegelt sich in ihnen das Herz des *ninja* wieder.
+Die Kampfstellungen im *taijutsu* sind mehr als Regeln, wie man den Körper zu bewegen hat. Am besten beschreibt man sie, wenn man sie als Ausdruck der inneren Einstellung sieht. Im Kampf oder Leben ist es immer wichtig, dass Körper und Geist eins sind. Wenn die *kamae* richtig ausgeführt werden, so spiegelt sich in ihnen das Herz des Ninja wieder.
 
 Der Sinn der *kamae* ist nicht, wie in anderen Kampfkünsten, dass jeder Kämpfer die gleiche Position einnimmt, ganz gleich ob sie zu seinem Körper passt, noch ist es der Sinn der *kamae* irgendwelche Tiere zu imitieren, sondern man soll sich natürlich bewegen, Körper, Geist und Seele sollen eins sein (*shingitai*).
 
@@ -101,7 +101,7 @@ Aus *shizen no kamae* geht man für *hanmi no kamae* einfach mit dem einen Bein 
 
 ![Goku no kamae](/images/kamae-goku.jpg "Goku no kamae")
 
-Bei *goku no kamae* dreht man den Körper aus *shizen no kamae* um 45° vom Gegner weg. Die Hände hängen natürlich herab, wie bei *shizen*, die vordere Hand ist offen, die hintere in *fudōken*.
+Bei *goku no kamae* dreht man den Körper aus *shizen no kamae* um 45° vom Gegner weg. Die Hände hängen natürlich herab, wie bei *shizen*, die vordere Hand ist offen, die hintere in *fudō ken*.
 
 
 ### Hira (ichimonji) no kamae

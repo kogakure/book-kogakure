@@ -1,17 +1,17 @@
 # Ukemi
 
 
-*Ukemi* bedeutet *Fallen* und umfasst jede Möglichkeit, wie man unbeschadet einen Sturz übersteht und zu Boden geht. Dazu gehören auch *kaiten* (Rollen) und andere Körperbewegungen. Der *ninja* wendet die Techniken an, wenn seine Standbeine umgerissen werden, oder wenn er aus der Reichweite des Gegners gelangen möchte, oder wenn er Angriffen entgehen möchte.
+*Ukemi* bedeutet *Fallen* und umfasst jede Möglichkeit, wie man unbeschadet einen Sturz übersteht und zu Boden geht. Dazu gehören auch *kaiten* (Rollen) und andere Körperbewegungen. Der Ninja wendet die Techniken an, wenn seine Standbeine umgerissen werden, oder wenn er aus der Reichweite des Gegners gelangen möchte, oder wenn er Angriffen entgehen möchte.
 
-Die meisten Kampfkünste vernachlässigen die Fähigkeit richtig zu fallen, und gleich wieder hochzuspringen, weiterzukämpfen oder zu fliehen – obwohl dies sicher nötig wäre. Man hat nicht die Wahl, wo man kämpfen möchte (es sei denn man ist der Angreifer – und das ist **NICHT** der Sinn des *ninjutsu*). Dies kann sitzend im Zugabteil sein, in einer engen Besenkammer, zwischen Tischen und Stühlen einer Kantine oder auf einer Treppe.
+Die meisten Kampfkünste vernachlässigen die Fähigkeit richtig zu fallen, und gleich wieder hochzuspringen, weiterzukämpfen oder zu fliehen – obwohl dies sicher nötig wäre. Man hat nicht die Wahl, wo man kämpfen möchte (es sei denn man ist der Angreifer – und das ist **NICHT** der Sinn des Ninjutsu). Dies kann sitzend im Zugabteil sein, in einer engen Besenkammer, zwischen Tischen und Stühlen einer Kantine oder auf einer Treppe.
 
-Ein *ninja* muss in der Lage sein von einem Laster abzuspringen, eine hohe Mauer zu überspringen oder sich blitzschnell hinzuwerfen – um einer Kugel zu entgehen.
+Ein Ninja muss in der Lage sein von einem Laster abzuspringen, eine hohe Mauer zu überspringen oder sich blitzschnell hinzuwerfen – um einer Kugel zu entgehen.
 
 Zuerst werden die Techniken aus einer tiefen, hockenden Stellung im Zeitlupentempo auf einer Matte ausgeführt. Wichtige Punkte sind das Senken des Körperschwerpunktes, das Ausatmen und die Körperentspannung. Später wird auf einer Wiese trainiert, dann auf hartem Boden, Asphalt, Treppen usw.
 
-## Zenpōkaiten (Vorwärtsrolle)
+## Zenpō kaiten (Vorwärtsrolle)
 
-![Zenpōkaiten (Vorwärtsrolle)](/images/ukemi-zenpokaiten.jpg)
+![Zenpō kaiten (Vorwärtsrolle)](/images/ukemi-zenpokaiten.jpg)
 
 Aus der Abwehrstellung heraus wird der Körper nach vorne gebeugt, so dass er, vom ausgestreckten Leitarm und der Schulter ausgehend, einen Bogen bildet. Der Kopf wird nach unten gezogen und man rollt sich nacheinander über Leitarm, Schulter, Rücken und Hüfte ab. Die Beine bleiben während der Rolle eng an den Boden gepresst, der Kopf berührt nicht den Boden.
 
@@ -20,9 +20,9 @@ Aus der Abwehrstellung heraus wird der Körper nach vorne gebeugt, so dass er, v
 - ohne Hände (*mūte*)
 
 
-## Kōhōkaiten (Rückwärtsrolle)
+## Kōhō kaiten (Rückwärtsrolle)
 
-![Kōhōkaiten (Rückwärtsrolle)](/images/ukemi-kohokaiten.jpg)
+![Kōhō kaiten (Rückwärtsrolle)](/images/ukemi-kohokaiten.jpg)
 
 Aus der Abwehrstellung heraus lässt man sich senkrecht zu Boden fallen. Dabei wird der Rücken nach vorn gebeugt und der Kopf eingezogen. Während des Abrollens bleiben die Beine eng am Körper. Es wird sich seitlich über die Schulter abgerollt.
 
@@ -31,9 +31,9 @@ Aus der Abwehrstellung heraus lässt man sich senkrecht zu Boden fallen. Dabei w
 - ohne Hände (*mūte*)
 
 
-## Sokuhōkaiten (Seitwärtsrolle)
+## Sokuhō kaiten (Seitwärtsrolle)
 
-![Sokuhōkaiten](/images/ukemi-sokuhokaiten.jpg)
+![Sokuhō kaiten](/images/ukemi-sokuhokaiten.jpg)
 
 Aus der Abwehrstellung heraus bringt man den Körperschwerpunkt über eines der Beine und schwingt das andere Bein in einem Bogen vor dem Standbein nach oben. Dann lässt man das Gesäß zu Boden gehen und hebt das ausgestreckte Bein hoch, so dass sich der Körper über den Rücken abrollt.
 
@@ -42,11 +42,11 @@ Aus der Abwehrstellung heraus bringt man den Körperschwerpunkt über eines der 
 - ohne Hände (*mūte*)
 
 
-## Zenpōukemi (Vorwärtsfall)
+## Zenpō ukemi (Vorwärtsfall)
 
-![Zenpōukemi (Vorwärtsfall)](/images/ukemi-zenpoukemi.jpg)
+![Zenpō ukemi (Vorwärtsfall)](/images/ukemi-zenpoukemi.jpg)
 
-Wenn man beginnt den Vorwärtsfall zu üben, so sollte man dies auf Knien machen. Die Unterarme formen ein Dreieck, Handflächen und Unterarme fangen den Fall ab. Das Kinn wird nach oben gezogen, damit man nicht mit dem Gesicht auf den Boden schlägt. Wenn man Zenpōukemi aus dem Stand ausübt, so wird ein Bein nach oben ausgestreckt.
+Wenn man beginnt den Vorwärtsfall zu üben, so sollte man dies auf Knien machen. Die Unterarme formen ein Dreieck, Handflächen und Unterarme fangen den Fall ab. Das Kinn wird nach oben gezogen, damit man nicht mit dem Gesicht auf den Boden schlägt. Wenn man Zenpō ukemi aus dem Stand ausübt, so wird ein Bein nach oben ausgestreckt.
 
 - auf den Knien zweihändig (*ryōte*)
 - auf den Knien einhändig (*katate*)
@@ -64,9 +64,9 @@ Beim Rückwärtsfall schlägt man mit Armen und Händen im Winkel von 45° neben
 - im Stehen zweihändig (*ryōte*)
 
 
-## Sokuhōukemi (Seitwärtsfall)
+## Sokuhō ukemi (Seitwärtsfall)
 
-![Sokuhōukemi (Seitwärtsfall)](/images/ukemi-sokuhoukemi.jpg)
+![Sokuhō ukemi (Seitwärtsfall)](/images/ukemi-sokuhoukemi.jpg)
 
 Beim Seitwärtsfall schlägt man seitlich mit einem in einem Winkel von 45° vom Körper abgestreckten Arm und mit der Handfläche auf dem Boden auf. Dabei fällt man jedoch nicht auf den Rücken, sondern auf die Körperseite (Hüfte, Rippen, Schulter). Der Kopf wird vom Boden entfernt gehalten. Die Beine werden zusammen etwa 45° vom Boden gerade in die Luft gestreckt.
 
@@ -89,11 +89,11 @@ Beim Seitwärtsfall schlägt man seitlich mit einem in einem Winkel von 45° vom
 - Aus *ichimonji no kamae* (*gyaku nagare*)
 
 
-## Shihōtenchitobi (In vier Richtungen, zum Himmel und zur Erde springen)
+## Shihō tenchi tobi (In vier Richtungen, zum Himmel und zur Erde springen)
 
-![Shihōtenchitobi (In vier Richtungen, zum Himmel und zur Erde springen)](/images/ukemi-shihotenchitobi.jpg)
+![Shihō tenchi tobi (In vier Richtungen, zum Himmel und zur Erde springen)](/images/ukemi-shihotenchitobi.jpg)
 
-Die Sprünge im *ninjutsu* werden leicht und locker ausgeführt, damit sie nahezu geräuschlos sind. Man übt dabei flach und weit nach links, rechts, vorne und hinten zu springen. *Ten* bedeutet hoch in den Himmel zu springen, *chi* bedeutet sich klein zumachen und den Körper zur Erde fallen zu lassen.
+Die Sprünge im Ninjutsu werden leicht und locker ausgeführt, damit sie nahezu geräuschlos sind. Man übt dabei flach und weit nach links, rechts, vorne und hinten zu springen. *Ten* bedeutet hoch in den Himmel zu springen, *chi* bedeutet sich klein zumachen und den Körper zur Erde fallen zu lassen.
 
 - vorwärts (*mae*)
 - rückwärts (*kōhō*)

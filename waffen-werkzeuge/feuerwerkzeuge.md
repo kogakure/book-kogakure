@@ -5,22 +5,22 @@
 
 ![Dōka](/images/werkzeuge-doka.jpg)
 
-Taschenheizofen, in dem immer ein Stück Kohle glühte. Der *ninja* konnte so im Winter warme Finger behalten. Außerdem konnte er an der Kohle z. B. Zündschnüre entzünden.
+Taschenheizofen, in dem immer ein Stück Kohle glühte. Der Ninja konnte so im Winter warme Finger behalten. Außerdem konnte er an der Kohle z. B. Zündschnüre entzünden.
 
 
-## Gando
+## Gandō
 
-![Gando](/images/werkzeuge-gando.jpg)
+![Gandō](/images/werkzeuge-gando.jpg)
 
 Dieses Beleuchtungswerkzeug war eine Besonderheit, weil eine Kerze darin immer senkrecht zum Boden gehalten wurde.
 
 
-## Mizutaimatsu
+## Mizu taimatsu
 
 Eine Fackel, die auch im Regen brennt.
 
 
-## Ninshokudai
+## Nin shokudai
 
 Eine L-förmige Fackel, die aufgehängt werden konnte.
 
@@ -30,8 +30,8 @@ Eine L-förmige Fackel, die aufgehängt werden konnte.
 Handflächenfackel, besonders nützlich beim aufbrechen von Türschlössern.
 
 
-## Uchidake
+## Uchi dake
 
-![Uchidake](/images/werkzeuge-uchidake.jpg)
+![Uchi dake](/images/werkzeuge-uchidake.jpg)
 
-Im inneren von einigen Bambusbehältern bewahrten die *ninja* Glut auf, mit der sie dann schnell Feuer entfachen konnten oder Licht entzünden konnten.
+Im inneren von einigen Bambusbehältern bewahrten die Ninja Glut auf, mit der sie dann schnell Feuer entfachen konnten oder Licht entzünden konnten.

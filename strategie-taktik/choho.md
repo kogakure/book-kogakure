@@ -17,7 +17,7 @@ Auch heute ziehen Feldherren oft lange Feldzüge mit hohen Menschen- und Materia
 
 ## Gesetze zur Kriegführung?
 
-Krieg ist ein nicht zu akzeptierender Zustand, und ein *ninja* könnte nie zulassen, das sein Herr einen Krieg anzettelt. Doch wenn die Freiheit des eigenen Landes von anderen angegriffen wird und man gezwungen ist sich zu verteidigen, dann bemüht sich ein *ninja*, alles zu tun, um diesen Konflikt so schnell wie möglich zu beenden.
+Krieg ist ein nicht zu akzeptierender Zustand, und ein Ninja könnte nie zulassen, das sein Herr einen Krieg anzettelt. Doch wenn die Freiheit des eigenen Landes von anderen angegriffen wird und man gezwungen ist sich zu verteidigen, dann bemüht sich ein Ninja, alles zu tun, um diesen Konflikt so schnell wie möglich zu beenden.
 
 Daher ist es bedenklich, in was für einer Welt wir leben, wenn heute Regeln für den Krieg aufgestellt werden. Es handelt sich doch nicht um ein Spiel!
 
@@ -35,29 +35,29 @@ Jeder sollte sich dies durch den Kopf gehen lassen, und überdenken, wer eigentl
 
 ## Anonymität
 
-Eine wichtige Grundlage für Spionage ist Anonymität. Dies war das Erfolgsrezept der *ninja*, was auch (*mumei mugei no jutsu*, dt. Keine Kunst, kein Name) genannt wurde. Um seine Anonymität zu bewahren sorgte der *ninja* dafür, dass niemand sein wahres Gesicht kannte.
+Eine wichtige Grundlage für Spionage ist Anonymität. Dies war das Erfolgsrezept der Ninja, was auch (*mumei mugei no jutsu*, dt. Keine Kunst, kein Name) genannt wurde. Um seine Anonymität zu bewahren sorgte der Ninja dafür, dass niemand sein wahres Gesicht kannte.
 
-Bei einer drohenden Gefangennahme kam es vor, dass er sich sein Gesicht zerschnitt, um nicht identifiziert werden zu können, oder seine Zunge herausschnitt, um nichts preisgeben zu können. Manchmal waren auch zwei *ninja* zusammen auf einer Mission. Wurde der eine gefasst, so hatte der andere den Auftrag seinen Kameraden zu töten.
+Bei einer drohenden Gefangennahme kam es vor, dass er sich sein Gesicht zerschnitt, um nicht identifiziert werden zu können, oder seine Zunge herausschnitt, um nichts preisgeben zu können. Manchmal waren auch zwei Ninja zusammen auf einer Mission. Wurde der eine gefasst, so hatte der andere den Auftrag seinen Kameraden zu töten.
 
-Ein Prinzip der *ninja* (*yomogami no jutsu*, dt. eine Frisur, aus vier verschiedenen Seiten betrachtet, muss immer gleich aussehen) besagt, dass man sich immer mehrere Namen und Identitäten zurechtlegen sollte. Der berühmte *jōnin* Momochi Sandayu hatte sogar zwei verschiedene Familien mit Kind und Haus. Er war gleichzeitig der *jōnin* Fujibayashi Nagato. So führte eine Person zwei verschiedene Gruppen von *ninja* an.
+Ein Prinzip der Ninja (*yomogami no jutsu*, dt. eine Frisur, aus vier verschiedenen Seiten betrachtet, muss immer gleich aussehen) besagt, dass man sich immer mehrere Namen und Identitäten zurechtlegen sollte. Der berühmte *jōnin* Momochi Sandayu hatte sogar zwei verschiedene Familien mit Kind und Haus. Er war gleichzeitig der *jōnin* Fujibayashi Nagato. So führte eine Person zwei verschiedene Gruppen von Ninja an.
 
 Der Grund für Spionage ist das Verschaffen eines Vorteils für den Krieg. Man kann als reine Auskundschaftung die Stärke, Bewaffnung etc. des Feindes herausfinden, und so seine Feldzüge besser planen.
 
 
 ## Spionagearten
 
-Grundsätzlich kann man dies zwei Bereiche teilen: Spionage in Friedenszeiten (*tōiri*) und Spionage und Sabotage während des Krieges (*chikairi*).
+Grundsätzlich kann man dies zwei Bereiche teilen: Spionage in Friedenszeiten (*tōiri*) und Spionage und Sabotage während des Krieges (*chi kai ri*).
 
 Wenn man Spionage betrieb oder einen Sabotageakt plante, so waren unbedingt sechs verschiedene Punkte für einen erfolgreichen Abschluss einer Mission zu beachten:
 
 
 ## Ninja platzieren
 
-Ein *ninja* musste während seiner gesamten Mission unbemerkt bleiben und durfte nicht auffallen. Dazu musste er ein möglichst normales Auftreten und Aussehen annehmen.
+Ein Ninja musste während seiner gesamten Mission unbemerkt bleiben und durfte nicht auffallen. Dazu musste er ein möglichst normales Auftreten und Aussehen annehmen.
 
 Eine Möglichkeit bestand darin Agenten schon zu Friedenszeiten in möglichen Kriegs- oder Unruhegebieten zu platzieren. In Friedenszeiten war es mit Sicherheit weitaus einfacher sich in eine Gesellschaft zu integrieren und sie zu unterwandern.
 
-Der *ninja* lebte sich in seinem Einsatzgebiet ein und wurde ein Teil der Gesellschaft. Er knüpfte Kontakte, sondierte mögliche Verbündete, hielt viel Konversation ab, observierte Objekte und arbeitete sich in die nötigen Informationen ein.
+Der Ninja lebte sich in seinem Einsatzgebiet ein und wurde ein Teil der Gesellschaft. Er knüpfte Kontakte, sondierte mögliche Verbündete, hielt viel Konversation ab, observierte Objekte und arbeitete sich in die nötigen Informationen ein.
 
 Wenn möglich besetzte er mit seinen Agenten wichtige Schlüsselpositionen im Militär oder in der Kommunikation. In Kriegszeiten ist dies kaum mehr möglich, weil die Überprüfungen zu stark sind.
 
@@ -87,39 +87,39 @@ Man konnte auch *kunoichi* im feindlichen Einsatzgebiet positionieren. Sie wurde
 
 ## Die Dienste von Verrätern nutzen
 
-Ein weitere Möglichkeit bestand darin, die eigenen Leute des Feindes für seine Zwecke zu benutzten. Man suchte sich Unzufriedene heraus und stiftete sie zum Verrat an. Dazu wurde das Prinzip des *gojōgoyoku* (Manipulierung durch die fünf Wünsche). Dabei war ein hochrangiger Verräter natürlich weit aus wertvoller, als ein anderer. Doch auch in der Bevölkerung suchten die *ninja* sich Hilfe und Unterstützung, meist schon zu Friedenszeiten. So konnte ein *ninja* zu Friedenszeiten eine Familie finanziell unterstützen. In Kriegszeiten musste diese ihm dann zu Diensten sein. Sie mussten den *ninja* ihr Haus als Unterschlupf gewähren, kleinere Informanten- und Spionagedienste erledigen oder vielleicht sogar ihre Tochter als Konkubine in die Dienste des feindlichen Fürsten geben, um einen Zugang zur Festung zu erhalten.
+Ein weitere Möglichkeit bestand darin, die eigenen Leute des Feindes für seine Zwecke zu benutzten. Man suchte sich Unzufriedene heraus und stiftete sie zum Verrat an. Dazu wurde das Prinzip des *gojō goyoku* (Manipulierung durch die fünf Wünsche). Dabei war ein hochrangiger Verräter natürlich weit aus wertvoller, als ein anderer. Doch auch in der Bevölkerung suchten die Ninja sich Hilfe und Unterstützung, meist schon zu Friedenszeiten. So konnte ein Ninja zu Friedenszeiten eine Familie finanziell unterstützen. In Kriegszeiten musste diese ihm dann zu Diensten sein. Sie mussten den Ninja ihr Haus als Unterschlupf gewähren, kleinere Informanten- und Spionagedienste erledigen oder vielleicht sogar ihre Tochter als Konkubine in die Dienste des feindlichen Fürsten geben, um einen Zugang zur Festung zu erhalten.
 
 Es wurden manchmal auch zwei Agenten ohne Wissen vom anderen auf die gleiche Mission geschickt. Zum einen hatte man so eine größere Objektivität zum Geschehen, zum anderen konnte man auf diese Weise leicht Doppelagenten enttarnen.
 
 Wenn man einen feindlichen Agent enttarnt hatte, so konnte man ihn eine Weile lang mit falschen Informationen versorgen und ihn dann bei seinem Herren durch offensichtliche Täuschung in Misskredit bringen, so dass er entweder getötet wurde oder nur noch überlaufen konnte.
 
-Man konnte auch einen eigenen Agenten benutzten, der sich nach einem scheinbaren Streit oder für ein höheres Geld von seinem alten Herren trennte. Er warb beim Feind an und arbeitete für ihn eine Weile. Es soll sogar vorgekommen sein, dass ein ninja einige *ninja* seines eigenen Clans im Auftrag des feindlichen Herren tötete, ehe er seinen Auftrag erledigte und wieder zu seinem alten Herren zurückkehrte.
+Man konnte auch einen eigenen Agenten benutzten, der sich nach einem scheinbaren Streit oder für ein höheres Geld von seinem alten Herren trennte. Er warb beim Feind an und arbeitete für ihn eine Weile. Es soll sogar vorgekommen sein, dass ein ninja einige Ninja seines eigenen Clans im Auftrag des feindlichen Herren tötete, ehe er seinen Auftrag erledigte und wieder zu seinem alten Herren zurückkehrte.
 
-Eine beliebte Taktik des *ninja* (*kami gakure no jutsu*, dt. die Kunst sich hinter Gott zu verstecken) bestand darin sich über Umwege dem Ziel zu nähern. Wenn das Zielobjekt zu stark bewacht wurde, dann informierte sich der *ninja* im buddhistischen oder shintoistischen Tempel über die Verwandtschaft seines Zielobjektes. Er versuchte sich mit einem Verwandten oder engem Vertrauten zu befreunden. Früher oder später kam er auf diese Weise in die Nähe seines Zieles.
+Eine beliebte Taktik des Ninja (*kami gakure no jutsu*, dt. die Kunst sich hinter Gott zu verstecken) bestand darin sich über Umwege dem Ziel zu nähern. Wenn das Zielobjekt zu stark bewacht wurde, dann informierte sich der Ninja im buddhistischen oder shintoistischen Tempel über die Verwandtschaft seines Zielobjektes. Er versuchte sich mit einem Verwandten oder engem Vertrauten zu befreunden. Früher oder später kam er auf diese Weise in die Nähe seines Zieles.
 
 
 ## Ziele bestimmen
 
-Als nächstes musste der *ninja* die Ziele des Feindes herausfinden. Dazu observierte ein Team über längere Zeiträume hinweg das feindliche Gebiet.
+Als nächstes musste der Ninja die Ziele des Feindes herausfinden. Dazu observierte ein Team über längere Zeiträume hinweg das feindliche Gebiet.
 
 Spione aus dem engeren Vertrautenkreis wussten vielleicht näheres über die Pläne des Feindes. Er verschaffte sich Zugang zu streng geheimen Räumen und Dokumenten und versuchte seinen Gegner zu durchschauen.
 
 
 ## Strategien bestimmen
 
-Dann galt es die Strategien des Feindes zu erkennen und zu analysieren. Man musste herausfinden, welche Personen Schlüsselpositionen einnahmen, welche Codes und Schlüsselwörter von den Wachen benutzt wurden, auf welchem Weg der Nachschub den Feind erreichte, welche Routen und Strecken von Patrouillen und Soldaten benutzt wurden. Und der *ninja* musste das feindliche Spionagesystem bloßlegen und wenn möglich behindern oder zerstören.
+Dann galt es die Strategien des Feindes zu erkennen und zu analysieren. Man musste herausfinden, welche Personen Schlüsselpositionen einnahmen, welche Codes und Schlüsselwörter von den Wachen benutzt wurden, auf welchem Weg der Nachschub den Feind erreichte, welche Routen und Strecken von Patrouillen und Soldaten benutzt wurden. Und der Ninja musste das feindliche Spionagesystem bloßlegen und wenn möglich behindern oder zerstören.
 
 
 ## Verwirrung sähen
 
-Man musste den Feind verwirren und ihn mit falschen Informationen, Gerüchten und gefälschter Kommunikation im Unklaren lassen und verunsichern. In dieser Phase versuchte der *ninja* auch Zwietracht und Unzufriedenheit unter den Soldaten zu fördern und sie gegeneinander auszuspielen. So konnte er z. B. als *Überlebender* in die Burg des Feindes kommen und von einem Feldzug erzählen, von Truppen und Bewegungen, die in Wirklichkeit gar nicht oder an anderem Ort stattfanden. Oder er verängstige die Soldaten mit Berichten über nächtliche Morde in anderen Lagern. Auf diese Weise konnten die Soldaten kein Auge mehr zutun und ihre Motivation und Bereitschaft sank ab.
+Man musste den Feind verwirren und ihn mit falschen Informationen, Gerüchten und gefälschter Kommunikation im Unklaren lassen und verunsichern. In dieser Phase versuchte der Ninja auch Zwietracht und Unzufriedenheit unter den Soldaten zu fördern und sie gegeneinander auszuspielen. So konnte er z. B. als *Überlebender* in die Burg des Feindes kommen und von einem Feldzug erzählen, von Truppen und Bewegungen, die in Wirklichkeit gar nicht oder an anderem Ort stattfanden. Oder er verängstige die Soldaten mit Berichten über nächtliche Morde in anderen Lagern. Auf diese Weise konnten die Soldaten kein Auge mehr zutun und ihre Motivation und Bereitschaft sank ab.
 
 
 ## Taktiken bestimmen
 
-Der *ninja* legte sich auch auf Beobachtungsposten, um die Kampftaktiken, Schlachtstrategien, die Stärken und Schwächen des Gegners herauszufinden. Er fand heraus, wie er seine Truppen platzierte und bewegte, erkundete die Truppenstärke, Bewaffnung und die geheimen Techniken und Taktiken des feindlichen Feldherren. Er fand heraus, an welchem Ort und zu welcher Zeit der Nachschub eintraf und ob weitere Truppen zur Unterstützung in der Nähe waren. Wenn ein Befehlshaber schlechte Vorlieben bei der Kriegsführung hatte, so unterstützte der *ninja* diese Tendenzen.
+Der Ninja legte sich auch auf Beobachtungsposten, um die Kampftaktiken, Schlachtstrategien, die Stärken und Schwächen des Gegners herauszufinden. Er fand heraus, wie er seine Truppen platzierte und bewegte, erkundete die Truppenstärke, Bewaffnung und die geheimen Techniken und Taktiken des feindlichen Feldherren. Er fand heraus, an welchem Ort und zu welcher Zeit der Nachschub eintraf und ob weitere Truppen zur Unterstützung in der Nähe waren. Wenn ein Befehlshaber schlechte Vorlieben bei der Kriegsführung hatte, so unterstützte der Ninja diese Tendenzen.
 
-Wenn er z. B. seine Kräfte aufsplitterte, so unterstützte man diesen Vorgang, wenn seine Front schwach war, dann versuchte man den General zu drängen, durch die schwache Front zu stürmen. Hatte der Feind eine starke Mitte, so riet der *ninja* dem General, die Seiten zu treffen und die Truppen von hinten aufzurollen.
+Wenn er z. B. seine Kräfte aufsplitterte, so unterstützte man diesen Vorgang, wenn seine Front schwach war, dann versuchte man den General zu drängen, durch die schwache Front zu stürmen. Hatte der Feind eine starke Mitte, so riet der Ninja dem General, die Seiten zu treffen und die Truppen von hinten aufzurollen.
 
 
 ## Gegenspionage

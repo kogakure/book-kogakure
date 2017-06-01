@@ -3,7 +3,7 @@
 
 ## Der große Feldzug gegen Iga
 
-Oda Nobunaga war die nächsten zwei Jahre anderweitig beschäftigt, so dass er sich erst dann mit dem Problem in Iga befassen konnte. Als ihm zwei *samurai*, Fukuchi Iyo aus einem Dorf oberhalb Tsuges in Iga und sein Kamerad Mimisu Iyajiro, ihre Dienste als Berater und Führer anboten, sah Nobunaga seine Chance gekommen Iga endlich zu unterwerfen, weil sie seine Oberherrschaft nicht akzeptierten. Oda Nobunaga plante eine weit aus größere Operation als sein Sohn Oda Nobuo bei seinem Misserfolg 1579.
+Oda Nobunaga war die nächsten zwei Jahre anderweitig beschäftigt, so dass er sich erst dann mit dem Problem in Iga befassen konnte. Als ihm zwei Samurai, Fukuchi Iyo aus einem Dorf oberhalb Tsuges in Iga und sein Kamerad Mimisu Iyajiro, ihre Dienste als Berater und Führer anboten, sah Nobunaga seine Chance gekommen Iga endlich zu unterwerfen, weil sie seine Oberherrschaft nicht akzeptierten. Oda Nobunaga plante eine weit aus größere Operation als sein Sohn Oda Nobuo bei seinem Misserfolg 1579.
 
 Oda Nobunaga plante von sechs Seiten aus gleichzeitig anzugreifen, wobei Fukuchi Iyo und Mimisu Iyajiro von Norden aus durch die Kōga-Provinz vorrücken sollten, weil diese Route am schwersten zu verteidigen war.
 
@@ -19,12 +19,12 @@ Die Truppen in Iga waren ungefähr 4.000 Soldaten, also entschlossen sie sich ih
 
 ### Iseji
 
-Die Route über Iseji wurde von Oda Nobuo oder Kitabatake Chujo Nobuo, wie er auch bekannt war, kommandiert. An seiner Seite ritten Yoshida Goro und Oda Shichibei no Jo Nobuzuma zusammen mit mehr als 10.000 Soldaten und berittenen *samurai*. Er wurde auch von all jenen begleitet, die schon bei der Invasion 1579 teilgenommen hatten, neben anderen Takigawa Saburohei Kazumasu, Nagano Sakyo und Hioki Daizenryo, aber dieses mal zusammen in einer Armee. Nach einem schnellen Vorstoß teile Nobuo seine Armee in drei Teile auf, um die Dörfer und Festungen anzugreifen, wo sich Flüchtlinge aus Iga aufhielten. Takigawa belagerte zwei Festungen, Tanenama no Sho und Kunimiyama, während Nagano und Hioki das Tal von Ao und die Festung in Kashiwao angriffen. Er traf nicht auf viel Widerstand während seinem Feldzug, aber sie wurden oft von den Belagerten bedrängt. In den Nächten starteten sie Angriffe auf die Belagerer.
+Die Route über Iseji wurde von Oda Nobuo oder Kitabatake Chujo Nobuo, wie er auch bekannt war, kommandiert. An seiner Seite ritten Yoshida Goro und Oda Shichibei no Jo Nobuzuma zusammen mit mehr als 10.000 Soldaten und berittenen Samurai. Er wurde auch von all jenen begleitet, die schon bei der Invasion 1579 teilgenommen hatten, neben anderen Takigawa Saburohei Kazumasu, Nagano Sakyo und Hioki Daizenryo, aber dieses mal zusammen in einer Armee. Nach einem schnellen Vorstoß teile Nobuo seine Armee in drei Teile auf, um die Dörfer und Festungen anzugreifen, wo sich Flüchtlinge aus Iga aufhielten. Takigawa belagerte zwei Festungen, Tanenama no Sho und Kunimiyama, während Nagano und Hioki das Tal von Ao und die Festung in Kashiwao angriffen. Er traf nicht auf viel Widerstand während seinem Feldzug, aber sie wurden oft von den Belagerten bedrängt. In den Nächten starteten sie Angriffe auf die Belagerer.
 
 
 ### Tsuge
 
-Mehr als 12.000 Soldaten kamen von Norden durch das Gebiet von Kōga. Sie zogen an Tsuge nahe den Grenzen vorbei weiter südlich. Die Armee wurde von Niwa Gorozaemon Nagashida, Takigawa Sakon Shogen, Takigawa Yoshidaou, Wakabe Sakyo no Shinjuko und Todo Shogen angeführt. Das Lager von Niwa Nagashida wurde bei jeder Gelegenheit von *ninja* angegriffen, so das am Ende niemand mehr wagte zu schlafen, aus Angst getötet zu werden.
+Mehr als 12.000 Soldaten kamen von Norden durch das Gebiet von Kōga. Sie zogen an Tsuge nahe den Grenzen vorbei weiter südlich. Die Armee wurde von Niwa Gorozaemon Nagashida, Takigawa Sakon Shogen, Takigawa Yoshidaou, Wakabe Sakyo no Shinjuko und Todo Shogen angeführt. Das Lager von Niwa Nagashida wurde bei jeder Gelegenheit von Ninja angegriffen, so das am Ende niemand mehr wagte zu schlafen, aus Angst getötet zu werden.
 
 
 ### Tamataki
@@ -39,7 +39,7 @@ Von Nordwesten kamen Hori Kudaro Hidemasa und Tarao Shirobei Mitsuhiro mit 2.300
 
 ### Yamato Hase
 
-Masanoiyabei Nagamasa, Shinjo Suruga no Kami, Ikoma Gagaku Kashira, Mori Iki no Kami, Toda Danzo Shoshitsu, Sawabara Jiro, Akiyama Sanou Tayu und Yoshino no Miya Naishoyu griffen von der Yamato-Provinz im Süden mit 10.000 Soldaten an. Sie belagerten Kashiwabara, die unter dem Oberbefehl von Takano stand, einem *samurai*, der Experte im Nachtangriff war. Er benutzte alte Methoden, die von Kusunoki Masashige, dem Gründer des Kusunoki-*ryū*. Eine Technik, die er nutzte, war Frauen und Kindern Fackeln schwenken zu lassen, was einen Eindruck eines bevorstehenden Angriffes erweckte und Angst und Unordnung in den feindlichen Lagern verbreitete.
+Masanoiyabei Nagamasa, Shinjo Suruga no Kami, Ikoma Gagaku Kashira, Mori Iki no Kami, Toda Danzo Shoshitsu, Sawabara Jiro, Akiyama Sanou Tayu und Yoshino no Miya Naishoyu griffen von der Yamato-Provinz im Süden mit 10.000 Soldaten an. Sie belagerten Kashiwabara, die unter dem Oberbefehl von Takano stand, einem Samurai, der Experte im Nachtangriff war. Er benutzte alte Methoden, die von Kusunoki Masashige, dem Gründer des Kusunoki-*ryū*. Eine Technik, die er nutzte, war Frauen und Kindern Fackeln schwenken zu lassen, was einen Eindruck eines bevorstehenden Angriffes erweckte und Angst und Unordnung in den feindlichen Lagern verbreitete.
 
 
 ### Kasama
@@ -49,7 +49,7 @@ Tsutsui Junke und sein Neffe Tsutsui Shiro Sadatsugu griffen ebenfalls von Yamat
 
 ### Hijiyama
 
-Am 27. September griffen Gamo Ujisato, Wakizaka Yamaoka und Tsutsui Hijiyama zusammen an, jedoch hatten sich kleine Gruppen von *ninja* entlang der Böschung versteckt. Es war die gleiche Strategie, die schon bei Nobuos Invasion erfolgreich angewendet worden war. Sie griffen Gamo auf seinem Weg nach oben an und fügten ihnen so viel Schaden zu, dass Gamos Truppen schwer verwundet waren und ihnen der Kampfgeist fehlte, als sie die Bergspitze erreichten.
+Am 27. September griffen Gamo Ujisato, Wakizaka Yamaoka und Tsutsui Hijiyama zusammen an, jedoch hatten sich kleine Gruppen von Ninja entlang der Böschung versteckt. Es war die gleiche Strategie, die schon bei Nobuos Invasion erfolgreich angewendet worden war. Sie griffen Gamo auf seinem Weg nach oben an und fügten ihnen so viel Schaden zu, dass Gamos Truppen schwer verwundet waren und ihnen der Kampfgeist fehlte, als sie die Bergspitze erreichten.
 
 
 ## Guerilla-Taktiken gegen die Angreifer
@@ -68,7 +68,7 @@ Dies war das Ende des letzten, großen Aufstandes in Iga und diejenigen, die Oda
 
 ## Die Überlebenden verstecken sich
 
-Nur noch wenige der einst 4.000 Mann starken Armee von Iga blieben übrig, und viele Unschuldige verloren ihr Leben in Nobunagas wütender Jagd nach *ninja*. Obwohl die meisten über die *ninja* Bescheid wussten, gehörte nur eine Minderheit den Clans an oder war in der Kunst des *ninjutsu* trainiert. Einige Quellen berichten, dass nur acht Überlebende aus den drei Clans der Hattori übrigblieben. Viele flohen in andere Gebiete Japans. Ein *jōnin* der Hattori-Familie wurde beim Angriff Tsutsuis auf die Burg Kikyo getötet.
+Nur noch wenige der einst 4.000 Mann starken Armee von Iga blieben übrig, und viele Unschuldige verloren ihr Leben in Nobunagas wütender Jagd nach Ninja. Obwohl die meisten über die Ninja Bescheid wussten, gehörte nur eine Minderheit den Clans an oder war in der Kunst des Ninjutsu trainiert. Einige Quellen berichten, dass nur acht Überlebende aus den drei Clans der Hattori übrigblieben. Viele flohen in andere Gebiete Japans. Ein *jōnin* der Hattori-Familie wurde beim Angriff Tsutsuis auf die Burg Kikyo getötet.
 
 Ein letzter Versuch Nobunaga zu ermorden wurde von Kido, Harada und Jindai ausgeübt. Das Ganze fand statt, als Oda Nobunaga durch Iga reiste, um die Erfolge seiner Invasion zu beobachten. Oda Nobunaga erreichte einen Platz namens Ichinomya. Kido, Harada und Jindai hatten drei Kanonen aus drei verschiedenen Richtungen aufgestellt. Sie eröffneten das Feuer auf den Platz, an dem Nobunaga und seine Gefolgsleute saßen, aber es gelang Nobunaga zu überleben, jedoch sieben oder acht seine Gefolgsleute kamen um. Kido, Harada und Jindai gelang die Flucht in die Wälder.
 

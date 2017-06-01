@@ -73,7 +73,7 @@ Mit 30 Jahren heiratete er seine Frau Mariko.
 
 ## Seminare weltweit
 
-Hatsumi reiste mehrmals jährlich um die Erde, hielt Seminare und *taikai* (Großes Treffen, *ninja*-Veranstaltungen) ab. Aufgrund seines hohen Alters und um sich um seine Frau zu kümmern, bleibt Hatsumi jetzt nur noch in Japan. Er trainiert aber noch hin- und wieder im *honbu-dōjō* (Haupttrainingshalle in Tōkyō).
+Hatsumi reiste mehrmals jährlich um die Erde, hielt Seminare und *taikai* (Großes Treffen, Ninja-Veranstaltungen) ab. Aufgrund seines hohen Alters und um sich um seine Frau zu kümmern, bleibt Hatsumi jetzt nur noch in Japan. Er trainiert aber noch hin- und wieder im *honbu-dōjō* (Haupttrainingshalle in Tōkyō).
 
 
 ## Auszeichnungen und Ehrentitel
@@ -102,11 +102,11 @@ Seit 1995 wird die Kampfkunst im Bujinkan einheitlich **budō taijutsu** genannt
 Hatsumi ist legitimer Nachfolger der neun *ryūha*:
 
 - 34\. sōke – Togakure-*ryū* *ninpō*
-- 28\. sōke – Gyokko-*ryū* *koshijutsu*
+- 28\. sōke – Gyokko-*ryū* *koshi jutsu*
 - 26\. sōke – Kukishinden-*ryū* *happōhikenjutsu*
-- 26\. sōke – Shinden-fudo-*ryū* *dakentaijutsu*
+- 26\. sōke – Shinden-fudo-*ryū* *daken taijutsu*
 - 21\. sōke – Gyokushin-*ryū* *ninpō*
-- 19\. sōke – Koto-*ryū* *koppōjutsu*
+- 19\. sōke – Koto-*ryū* *koppō jutsu*
 - 17\. sōke – Takagi-yohsin-*ryū* *jutaijutsu*
-- 15\. sōke – Gikan-*ryū* *koppōjutsu*
+- 15\. sōke – Gikan-*ryū* *koppō jutsu*
 - 14\. sōke – Kumogakure-*ryū* *ninpō*

@@ -31,19 +31,19 @@ Zusammenklappbarer Spaten.
 
 ![Shikoro](/images/werkzeuge-shikoro.jpg)
 
-Um durch Holzwände und Holztüren zu gelangen, setzten die *ninja* diese dünne Säge ein.
+Um durch Holzwände und Holztüren zu gelangen, setzten die Ninja diese dünne Säge ein.
 
 
-## Tobikunai
+## Tobi kunai
 
-![Tobikunai](/images/werkzeuge-tobikunai.jpg)
+![Tobi kunai](/images/werkzeuge-tobikunai.jpg)
 
 Mit diesem Werkzeug konnte man verriegelte Tore öffnen.
 
 
-## Tsubogiri
+## Tsubo giri
 
-![Tsubogiri](/images/werkzeuge-tsubogiri.jpg)
+![Tsubo giri](/images/werkzeuge-tsubogiri.jpg)
 
 Dieser Bohrer schnitt größere Löcher in Holzwände und Holztüren.
 
@@ -52,4 +52,4 @@ Dieser Bohrer schnitt größere Löcher in Holzwände und Holztüren.
 
 ![Yajiri](/images/werkzeuge-yajiri.jpg)
 
-Wenn stärkere Holzteile oder Äste zersägt werden mussten, setzten die *ninja* eine Säge mit stärkerer Klinge ein.
+Wenn stärkere Holzteile oder Äste zersägt werden mussten, setzten die Ninja eine Säge mit stärkerer Klinge ein.

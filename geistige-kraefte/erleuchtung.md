@@ -23,7 +23,7 @@ Jeder von uns mag vielleicht eine andere Antwort auf seinem Weg finden doch eine
 
 Diejenigen, die den Pfad des Kriegers gewählt haben, kommen vielleicht zu der Einsicht, das jeder Konflikt sinnlos ist und sie arbeiten an ihrer Kraft und Unverwundbarkeit, die einem die Freiheit geben Liebe und Großmut zu wählen.
 
-In vielen Fällen wird ein Krieger auf dem Weg zur Erleuchtung zu einem bestimmten Zeitpunkt auf eine Irrfahrt – *mushashūgyō* – aufbrechen. Diese Irrfahrt beraubt den Krieger seiner Heimat, der Bequemlichkeit, eines geordneten Tagesablaufes, Freunden, der Familie oder der Muttersprache. Der *ninja* muss anpassungsfähig und einfallsreich sein, um diese Situation zu bewältigen.
+In vielen Fällen wird ein Krieger auf dem Weg zur Erleuchtung zu einem bestimmten Zeitpunkt auf eine Irrfahrt – *musha shūgyō* – aufbrechen. Diese Irrfahrt beraubt den Krieger seiner Heimat, der Bequemlichkeit, eines geordneten Tagesablaufes, Freunden, der Familie oder der Muttersprache. Der Ninja muss anpassungsfähig und einfallsreich sein, um diese Situation zu bewältigen.
 
 Verschiedene Faktoren erschweren es dem Krieger, den Weg zur Erleuchtung zu betreten und ihm zu folgen. Am meisten hindert uns, dass man auf dem Weg des Kriegers ausschließlich in einem Aspekt der Existenz eintauchen muss und diesem Pfad jeden Tag seines Lebens mit ganzem Eifer folgen muss.
 

@@ -3,7 +3,7 @@
 
 ## Kondition und Beweglichkeit
 
-*Jūnantaisō* ist das Konditionstraining der *ninja*, um die Geschmeidigkeit, Geschwindigkeit und Reaktionen zu verbessern, damit man in der Lage ist, die Techniken des *taijutsu* effektiv zu benutzen. Im *ninjutsu* wird Stärke durch Flexibilität erlangt. Muskeln und Sehnen gewinnen ihre natürliche Elastizität zurück. *Jūnantaisō* erhält - in Verbindung mit einer richtigen Ernährung - den Körper bis ins hohe Alter gesund.
+*Jūnantaisō* ist das Konditionstraining der Ninja, um die Geschmeidigkeit, Geschwindigkeit und Reaktionen zu verbessern, damit man in der Lage ist, die Techniken des *taijutsu* effektiv zu benutzen. Im Ninjutsu wird Stärke durch Flexibilität erlangt. Muskeln und Sehnen gewinnen ihre natürliche Elastizität zurück. *Jūnantaisō* erhält - in Verbindung mit einer richtigen Ernährung - den Körper bis ins hohe Alter gesund.
 
 Das Muskelsystem kann in zwei Bereiche unterteilt werden. Schwache Muskeln werden durch schnelle Wiederholungsübungen gestärkt. Bei dieser Art von Training, die sich durch schnellen Wechseln von Kontraktion und Entspannung auszeichnet, tritt möglicherweise ein Gefühl von körperlicher Erschöpfung auf.
 

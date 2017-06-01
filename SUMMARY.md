@@ -52,7 +52,7 @@
 
 - [Mikkyō](geistige-kraefte/mikkyo.md)
 - [Sanmitsu](geistige-kraefte/sanmitsu.md)
-- [Kujiin](geistige-kraefte/kujiin.md)
+- [Kuji in](geistige-kraefte/kujiin.md)
 - [Godai](geistige-kraefte/godai.md)
 - [Gogyō](geistige-kraefte/gogyo.md)
 - [Tenchijin](geistige-kraefte/tenchijin.md)
@@ -63,14 +63,14 @@
 
 ## Strategie und Taktik
 
-- [Gotonpō](strategie-taktik/gotonpo.md)
-- [Onshinjutsu](strategie-taktik/onshinjutsu.md)
-- [Shichihōde](strategie-taktik/shichihode.md)
+- [Goton pō](strategie-taktik/gotonpo.md)
+- [Onshin jutsu](strategie-taktik/onshinjutsu.md)
+- [Shichi hō de](strategie-taktik/shichihode.md)
 - [Chōhō](strategie-taktik/choho.md)
 - [Heihō](strategie-taktik/heiho.md)
 - [Bōryaku](strategie-taktik/boryaku.md)
 - [Tōiri](strategie-taktik/toiri.md)
-- [Chikairi](strategie-taktik/chikairi.md)
+- [Chi kai ri](strategie-taktik/chikairi.md)
 
 ## Das Erbe der Ninja
 

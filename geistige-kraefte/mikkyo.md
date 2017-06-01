@@ -3,7 +3,7 @@
 
 ## Mit allen Dingen im Einklang
 
-Um mit allen Dingen in den Einklang zu gelangen und ein durch und durch natürliches Geschöpf zu werden wendeten die *ninja* das *ninpō mikkyō* (tantrische Lehren des Buddhismus) an.
+Um mit allen Dingen in den Einklang zu gelangen und ein durch und durch natürliches Geschöpf zu werden wendeten die Ninja das *ninpō mikkyō* (tantrische Lehren des Buddhismus) an.
 
 Das *mikkyō* besagt, es gebe keinen Zufall. Alles, was wir als Glück oder Unglück ansehen sind unkanalisierte Kräfte, die sich in unserem Leben manifestieren.
 
@@ -12,7 +12,7 @@ Das bedeutet, dass eine richtige geistige Einstellung notwendig ist, um die Wirk
 
 ## Ninja und Wissenschaft
 
-Die *ninja* waren sowohl Wissenschaftler, beschäftigten und interessierten sich für die Funktionsweise von Organismen und Naturprozessen.
+Die Ninja waren sowohl Wissenschaftler, beschäftigten und interessierten sich für die Funktionsweise von Organismen und Naturprozessen.
 
 Doch gleichzeitig waren sie auch an tiefergehenden spirituellen und *okkulten* Phänomenen interessiert. Sie vertrauten auf deren Wirkungen, die sich im Laufe der vielen Jahrhunderte seit ihrer Erschaffung oft bewährt hatten.
 
@@ -28,16 +28,16 @@ Doch ist noch lange nichts geklärt, die Funktionsweise von Meridianen und körp
 
 ## Offenheit gegenüber allen Aspekten
 
-Doch heutige *ninja* verschließen sich nicht gegenüber neuen, bzw. alten Aspekten. *Ninja* fühlen sich keiner besonderen Religion oder Weltanschauung verpflichtet, sie nehmen die Aspekte der Religionen als funktionierende Prinzipien in ihre Weltanschauung auf, die einen Wert für sie haben.
+Doch heutige Ninja verschließen sich nicht gegenüber neuen, bzw. alten Aspekten. Ninja fühlen sich keiner besonderen Religion oder Weltanschauung verpflichtet, sie nehmen die Aspekte der Religionen als funktionierende Prinzipien in ihre Weltanschauung auf, die einen Wert für sie haben.
 
-Es ist deshalb wichtig zu verstehen, das alle Aspekte - sei es nun religiös oder philosophisch - nur Vorschläge für *ninja* sein sollen. Es war keineswegs *Pflicht* und sollte es auch heute nicht sein, bestimmte Ansichten vertreten zu müssen, um sich als *ninja* bezeichnen zu dürfen.
+Es ist deshalb wichtig zu verstehen, das alle Aspekte - sei es nun religiös oder philosophisch - nur Vorschläge für Ninja sein sollen. Es war keineswegs *Pflicht* und sollte es auch heute nicht sein, bestimmte Ansichten vertreten zu müssen, um sich als Ninja bezeichnen zu dürfen.
 
-Nicht ein *kamiza* (Schrein) im *dōjō* macht den *ninja* aus, sondern einzig sein Geist und seine körperlichen Fähigkeiten, sei dies nun christlich, buddhistisch, jüdisch, muslimisch, hinduistisch oder ganz anderer Gesinnung.
+Nicht ein *kamiza* (Schrein) im *dōjō* macht den Ninja aus, sondern einzig sein Geist und seine körperlichen Fähigkeiten, sei dies nun christlich, buddhistisch, jüdisch, muslimisch, hinduistisch oder ganz anderer Gesinnung.
 
 
 ## Philosophie und Religion als ethische Grundlagen
 
-Doch was mit Sicherheit klar sein dürfte ist die Tatsache, dass ein *ninja* ohne philosophische oder religiöse Grundlagen eine Schande für alle ist. Wer sein Ziel einzig auf die körperliche Entwicklung legt, wird scheitern. Wer stolz darauf ist Bretter zerschlagen zu können oder Gegner in Turnieren besiegt zu haben, der hat im Bujinkan *budō taijutsu* die falsche Kunst gewählt oder sollte diese Kunst nie wählen. Kickboxen, Karate oder besser noch Boxen ist meine persönliche Empfehlung.
+Doch was mit Sicherheit klar sein dürfte ist die Tatsache, dass ein Ninja ohne philosophische oder religiöse Grundlagen eine Schande für alle ist. Wer sein Ziel einzig auf die körperliche Entwicklung legt, wird scheitern. Wer stolz darauf ist Bretter zerschlagen zu können oder Gegner in Turnieren besiegt zu haben, der hat im Bujinkan *budō taijutsu* die falsche Kunst gewählt oder sollte diese Kunst nie wählen. Kickboxen, Karate oder besser noch Boxen ist meine persönliche Empfehlung.
 
 Außerdem will ich anmerken, dass er sonst nie eine bestimmte Stufe im Bujinkan übersteigen wird (4. *dan*).
 
@@ -60,7 +60,7 @@ Der Mönch Kūkai studierte in China das Mi zong und gründete nach seiner Rück
 
 Im Shingon wird besondere Bedeutung auf die *sanmitsu* (Die Drei Geheimnisse) gelegt. Gedanke, Wort und Tat können jeden Menschen zur Buddhaschaft führen. Das Hauptmerkmal dieser Sekte ist die Verwirklichung eines harmonischen Verhältnisses der fünf Elemente.
 
-Der zweite Mönch, Saichō, studierte das Tian tai, einen Zweig des Tantra. Nach seiner Rückkehr gründete er für seine Tendai-Sekte das Kloster Enryakuji auf dem Berg Hiei zan. Dieses Kloster wurde das mächtigste in Japan. Zeitweise standen 40.000 Mönche und *sōhei* unter dem Schutz des Kaiserhauses. Doch im Laufe seines Feldzuges gegen die *ikkō-ikki* (Aufständische Bauernkrieger), *sōhei* (buddhistische Kriegermönche) und *ninja* wurde das Kloster von Oda Nobunaga niedergebrannt. Drei wichtige Strömungen sind durch diese Zerstörung entstanden: Sammon, Jimon und Shinsi.
+Der zweite Mönch, Saichō, studierte das Tian tai, einen Zweig des Tantra. Nach seiner Rückkehr gründete er für seine Tendai-Sekte das Kloster Enryakuji auf dem Berg Hiei zan. Dieses Kloster wurde das mächtigste in Japan. Zeitweise standen 40.000 Mönche und *sōhei* unter dem Schutz des Kaiserhauses. Doch im Laufe seines Feldzuges gegen die *ikkō-ikki* (Aufständische Bauernkrieger), *sōhei* (buddhistische Kriegermönche) und Ninja wurde das Kloster von Oda Nobunaga niedergebrannt. Drei wichtige Strömungen sind durch diese Zerstörung entstanden: Sammon, Jimon und Shinsi.
 
 
 ## Tendai
@@ -69,4 +69,4 @@ Die wichtigste Lehre im Tendai ist das befolgen der drei Vorschriften: *Böses v
 
 In den Ursprungsländern wurde aus den Grundlagen des *mikkyō* in den folgenden Jahrhunderten eine Religion. Es wurde eine große Anzahl Götter hinzugefügt und angebetet.
 
-Doch die *ninja* benutzten das *mikkyō*, um ihre Fähigkeiten und Kräfte zu verbessern. *Mikkyō* ist nicht nur eine Religion, sondern funktionierende Prinzipien der Gesetze des Universums.
+Doch die Ninja benutzten das *mikkyō*, um ihre Fähigkeiten und Kräfte zu verbessern. *Mikkyō* ist nicht nur eine Religion, sondern funktionierende Prinzipien der Gesetze des Universums.

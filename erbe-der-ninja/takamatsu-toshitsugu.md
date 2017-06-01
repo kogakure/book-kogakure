@@ -40,9 +40,9 @@ Jeden Tag kam er mit blutenden Ellenbogen und Knien nach Hause. Takamatsu erinne
 
 Nach einem Jahr brachte Meister Toda ihm die ersten Techniken der Shinden-fudo-*ryū* bei. Toda erkannte, dass Takamatsu sehr begabt war Budo zu erlernen. Mit dreizehn Jahren beherrschte er den Shinden-fudo-*ryū*.
 
-Während er auf die Akashi no Miyas English School in Kobe ging besuchter er noch eine chinesische Bildungsschule. Jeden zweiten Tag ging er in das *dōjō* von Mizuta Yoshitaru Tadafusa und lernte das Takagi-yōshin-*ryū* *jūtaijutsu*.
+Während er auf die Akashi no Miyas English School in Kobe ging besuchter er noch eine chinesische Bildungsschule. Jeden zweiten Tag ging er in das *dōjō* von Mizuta Yoshitaru Tadafusa und lernte das Takagi-yōshin-*ryū* *jū tai jutsu*.
 
-Gleichzeitig lernte er von Toda das Togakure-*ryū* *ninpō*, das Koto-*ryū* *koppōjutsu*, das Gyokko-*ryū* *koshijutsu*, das Gyokushin-*ryū* *ninpō* und das Kumogakure-*ryū* *ninpō*.
+Gleichzeitig lernte er von Toda das Togakure-*ryū* *ninpō*, das Koto-*ryū* *koppō jutsu*, das Gyokko-*ryū* *koshi jutsu*, das Gyokushin-*ryū* *ninpō* und das Kumogakure-*ryū* *ninpō*.
 
 Takamatsu mochte den Koto-ryū, der Togakure-*ryū* sagte ihm weniger zu. Der Koto-ryū stärkte die Hände und Füße, vor allem die Finger und Zehen. Durch jahrelanges intensives Training, bei dem er seine Hände gegen Felsen und andere harte Gegenstände schlug waren seine Finger- und Fußnägel 4 bis 5 Millimeter dick, so dass er sie nicht mit einer normalen Nagelschere schneiden konnte. Er konnte damit die Rinde von einem Baum reißen. Er selbst sagte später, dass in der heutigen Zeit solche Waffen nicht mehr nötig seien.
 
@@ -80,7 +80,7 @@ Im Alter von siebzehn Jahren erhielt er das *menkyōkaiden* der Takagi-*ryū* vo
 
 ## Training bei Ishitani
 
-Takamatsu lernte im selben Jahr Ishitani Takakage Matsutaro kennen, der als Leibwächter in der Streichholzfabrik seines Vaters arbeitete. Ishitani, der in ganz Japan als berühmter Kämpfer bekannt war, richtete in der Fabrik ein kleines *dōjō* ein und brachte Takamatsu das Kukishinden-*ryū* *happōhikenjutsu*, das Gikan-*ryū* *koppōjutsu* und einige andere Aspekte des Ninjutsu bei.
+Takamatsu lernte im selben Jahr Ishitani Takakage Matsutaro kennen, der als Leibwächter in der Streichholzfabrik seines Vaters arbeitete. Ishitani, der in ganz Japan als berühmter Kämpfer bekannt war, richtete in der Fabrik ein kleines *dōjō* ein und brachte Takamatsu das Kukishinden-*ryū* *happōhikenjutsu*, das Gikan-*ryū* *koppō jutsu* und einige andere Aspekte des Ninjutsu bei.
 
 Als Takamatsu achtzehn Jahre alt war, holte er jeden Morgen 330 Gallonen (1 Gallone = 4.546 Liter) frisches Wasser für die Fabrik seines Vaters von einer Brunnenquelle. Die Quelle war am Fuße des Maruyama-Berges und 7 bis 8 Blocks von der Fabrik entfernt. Er musste fünf mal gegen, und jedes Mal 240 kg Wasser nach Hause tragen. Das stärkte seinen Körper sehr.
 
@@ -114,9 +114,9 @@ Doch nach einem Monat kam ein Bote, der ausrichtete das Takamatsus Vater die mon
 
 ## Die Hütte in den Bergen
 
-Seine Beine waren schwer und angeschwollen von der Krankheit, als er sich Richtung des Mayasan-Berges schleppte. Ohne sein *ninjutsu*-Training hätte er schon nicht mehr laufen können. Auf Händen und Knien krabbelte er den Berg hinauf bis er an einen Wasserfall gelangte. Dort stand eine kleine Hütte, die ca. 4 Meter breit und lang war. Die Hütte war sehr luftig.
+Seine Beine waren schwer und angeschwollen von der Krankheit, als er sich Richtung des Mayasan-Berges schleppte. Ohne sein Ninjutsu-Training hätte er schon nicht mehr laufen können. Auf Händen und Knien krabbelte er den Berg hinauf bis er an einen Wasserfall gelangte. Dort stand eine kleine Hütte, die ca. 4 Meter breit und lang war. Die Hütte war sehr luftig.
 
-Am Fuß des Berges hatte er noch 2 Liter Reis eingekauft. Er hatte Streichhölzer vergessen und konnte deshalb kein Feuer machen. Doch er erinnerte daran, dass sein Meister ihm einmal erzählt hatte, dass es wichtig für einen *ninja* sei, natürliches Essen zu sich zu nehmen. Also wusch er den Reis und legte ihn auf einen Stein. Durch die Sonne wurde der Reis mehlig, als Takamatsu ihn mit den Händen zerrieb. Er hatte nur ein Photo von Meister Toda bei sich, zu dem er redete. Als er daran dachte, dass alle seine Meister, Toda, Ishitani und Mizutani schon gestorben waren, schmeckte der rohe Reis für ihn, als sei es das Beste auf der Welt.
+Am Fuß des Berges hatte er noch 2 Liter Reis eingekauft. Er hatte Streichhölzer vergessen und konnte deshalb kein Feuer machen. Doch er erinnerte daran, dass sein Meister ihm einmal erzählt hatte, dass es wichtig für einen Ninja sei, natürliches Essen zu sich zu nehmen. Also wusch er den Reis und legte ihn auf einen Stein. Durch die Sonne wurde der Reis mehlig, als Takamatsu ihn mit den Händen zerrieb. Er hatte nur ein Photo von Meister Toda bei sich, zu dem er redete. Als er daran dachte, dass alle seine Meister, Toda, Ishitani und Mizutani schon gestorben waren, schmeckte der rohe Reis für ihn, als sei es das Beste auf der Welt.
 
 Er fühlte sich schon ein wenig besser und ruhte sich einige Tage lang aus. Nur die Vögel und der Wind leisteten ihm Gesellschaft.
 
@@ -213,7 +213,7 @@ Am 2.4.1972 verstarb er in seinem Haus in Nara (östl. von Osaka) und wurde auf 
 
 Hatsumi entschied im Andenken an seinen Lehrer sein *dōjō* **Bujinkan** *dōjō* zu nennen, was **Die Halle des göttlichen Kriegers** bedeutet.
 
-Erst nach seinem Tod erfuhren die Nachbarn von seinem bewegtem Leben und waren sehr <q>beeindruckt</q>. Nur wenige wussten, dass er ein *ninja* war.
+Erst nach seinem Tod erfuhren die Nachbarn von seinem bewegtem Leben und waren sehr <q>beeindruckt</q>. Nur wenige wussten, dass er ein Ninja war.
 
 {% hint style='tip' %}
 [Takamatsu Toshitsugu: Die Biographie einer Kampfkunstlegende](https://www.amazon.de/gp/product/3924862117?ie=UTF8&tag=kogakurede-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=3924862117) von **Wolfgang Ettig** auf Amazon.

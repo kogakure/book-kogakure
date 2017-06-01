@@ -4,9 +4,9 @@
 
 ## Die Schule des den Tiger niederschlagen
 
-Es wird vermutet das das Koto-*ryū* *koppōjutsu* von China über Korea kam, von Chan Busho, einem chinesischen Krieger mitgebracht. Das währe dann aber viele hundert Jahre vor der Gründung des Koto-*ryū* gewesen. Der genaue Ursprung des *ryū* ist nicht bekannt, doch wurden die Techniken 1542 von Sakagami Taro Kunishige im *ryuha* zusammengefasst. Er war auch der *sōke* des Gyokko-*ryū*. Beide Stile haben sehr viele Ähnlichkeiten.
+Es wird vermutet das das Koto-*ryū* *koppō jutsu* von China über Korea kam, von Chan Busho, einem chinesischen Krieger mitgebracht. Das währe dann aber viele hundert Jahre vor der Gründung des Koto-*ryū* gewesen. Der genaue Ursprung des *ryū* ist nicht bekannt, doch wurden die Techniken 1542 von Sakagami Taro Kunishige im *ryuha* zusammengefasst. Er war auch der *sōke* des Gyokko-*ryū*. Beide Stile haben sehr viele Ähnlichkeiten.
 
-Viele *ninja* und *samurai* wurden in den Methoden des Koto-*ryū* trainiert. Momochi Sandayu lehrte Ishikawa Goemon, den berüchtigten *ninja*, der ein Krimineller war. Momochi verleugnete immer, das Ishikawa Goemon jemals ein Mitglied seines Clans war.
+Viele Ninja und Samurai wurden in den Methoden des Koto-*ryū* trainiert. Momochi Sandayu lehrte Ishikawa Goemon, den berüchtigten Ninja, der ein Krimineller war. Momochi verleugnete immer, das Ishikawa Goemon jemals ein Mitglied seines Clans war.
 
 Goemon wurde als der *Ninja Robin Hood* angesehen und wurde wahrscheinlich gefasst und in kochendem Öl zu Tode gebrüht. Einige Historiker, auch Takamatsu Toshitsugu glauben, er wurde nie gefasst, das *bakufu* war nur zu beschämt dies zuzugeben. In vielen Fällen ist die Geschichte, die mündlich weitergegeben wurde glaubwürdiger als das geschriebene Wort.
 

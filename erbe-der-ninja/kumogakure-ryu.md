@@ -6,7 +6,7 @@
 
 Das *taijutsu* des Kumogakure-*ryū* ist dem des Togakure-*ryū* sehr ähnlich. Wahrscheinlich wurde der Kumogakure-*ryū* von der Toda-Familie gegründet.
 
-Die *ninja* des Kumogakure-*ryū* zogen mit gepanzerter Kleidung in die Schlacht. Eine andere interessante Sache ist, das in diesem *ryū* manchmal eine Dämonenmaske getragen wurde. Eine der Spezialwaffen des Kumogakure-*ryū* ist der *kamayari* (Hakenspeer). Beim Kampf gegen Schwertträger wurden die Haken benutzt, um die Schläge abzuwehren. Die Haken wurden aber auch benutzt, um Gegner von oben zu töten. In den *densho* des Kumogakure-*ryū* wird ein *ninja* namens Sarutobi Sasuke erwähnt, der den Hakenspeer benutzte, um sich von Baum zu Baum zu bewegen. Eine andere Spezialität ist das Überlebenstraining und die Kunst in allen Situationen Feuer zu entzünden.
+Die Ninja des Kumogakure-*ryū* zogen mit gepanzerter Kleidung in die Schlacht. Eine andere interessante Sache ist, das in diesem *ryū* manchmal eine Dämonenmaske getragen wurde. Eine der Spezialwaffen des Kumogakure-*ryū* ist der *kama yari* (Hakenspeer). Beim Kampf gegen Schwertträger wurden die Haken benutzt, um die Schläge abzuwehren. Die Haken wurden aber auch benutzt, um Gegner von oben zu töten. In den *densho* des Kumogakure-*ryū* wird ein Ninja namens Sarutobi Sasuke erwähnt, der den Hakenspeer benutzte, um sich von Baum zu Baum zu bewegen. Eine andere Spezialität ist das Überlebenstraining und die Kunst in allen Situationen Feuer zu entzünden.
 
 Es gibt wahrscheinlich viele Techniken, bei denen nur kleine Schritte gemacht werden, weil Frauen damals den traditionellen *kimono* trugen.
 

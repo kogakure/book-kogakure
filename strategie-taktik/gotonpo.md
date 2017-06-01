@@ -1,4 +1,4 @@
-# Gotonpō
+# Goton pō
 
 
 ## Suiton (Gebrauch des Wassers zur Flucht)
@@ -63,7 +63,7 @@
 - Gebrauch von Metall zur Flucht
 - Gebrauch von Waffen (u. a. *shuriken*, *tetsubishi*).
 - Gebrauch von Werkzeugen (u. a. Sägen, Bohrer, Einbruchswerkzeuge)
-- Gebrauch von Klettergeräten (u. a. *shukō*, *ashikō*, *kaginawa*)
+- Gebrauch von Klettergeräten (u. a. *shukō*, *ashi kō*, *kagi nawa*)
 - Gebrauch von Spiegeln zum Blenden oder zur Kommunikation
 
 Die Elemente sind schwer voneinander zu trennen und meist sind natürlich mehrere Elemente gleichzeitig anzutreffen. Beim Klettern von Felsen (*doton*) wurde natürlich auch Kletterwerkzeug aus Metall (*kinton*) benutzt. Beim Verbergen in Erdlöchern (*doton*) oder im Wasser (*suiton*) wurde oft auch noch Vegetation (*mokuton*) zur Tarnung hinzugefügt. Diese Kategorien lassen sich auch noch nach Belieben erweitern, und auch moderne Techniken wie GPS passen in eine dieser Kategorien.

@@ -4,7 +4,7 @@
 
 ## Schule des Lernens von Gerechtigkeit
 
-Das Gikan-*ryū* *koppōjutsu* wurde von Uryu Hangan Gikanbo gegründet, der *daimyō* von Kawachi no Kuni (Burg Kawachi) war. Es wird erzählt Uryu Hangan Gikanbos Schlag war so kraftvoll, das er einmal eine Schwertklinge in zwei Hälften schlug.
+Das Gikan-*ryū* *koppō jutsu* wurde von Uryu Hangan Gikanbo gegründet, der *daimyō* von Kawachi no Kuni (Burg Kawachi) war. Es wird erzählt Uryu Hangan Gikanbos Schlag war so kraftvoll, das er einmal eine Schwertklinge in zwei Hälften schlug.
 
 Takamatsu Toshitsugu hatte den *ryū* ursprünglich an Akimoto Fumio übertragen, der der 14. *sōke* wurde. Doch Akimoto ereilte ein frühzeitiger Tod durch Krankheit 1962 und er hatte keine Erben. Deshalb kam das System zu Takamatsu Sensei zurück. Der übertrug es dann Hatsumi Masaaki, der der derzeitige *sōke* ist.
 

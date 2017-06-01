@@ -60,4 +60,4 @@ Das Dao hat jedoch eine Struktur und Form. Dieses heißt auf Chinesisch *li* und
 
 Das Prinzip des Daoismus ist *Nicht-Handeln* (chin. *wu wei*). Es ist aber nicht im Sinne von Trägheit, Faulheit, laissez-faire oder Passivität zu sehen. Wu Wei bedeutet nicht gegen den natürlichen Lauf des Dao zu handeln. Wu Wei ist die Weide, die unter der Last des Schnees nachgibt, und nicht wie ein hoher Baum, der starr ist und dessen Äste brechen.
 
-Ein Mensch der das Dao verstanden hat, dessen Lebensstil ist Wu Wei. Dieses Prinzip wurde auch von den *ninja* angewandt (*in shin tonkei*, Größtmögliche Wirkung, bei geringstmöglichem Aufwand). Ein *ninja* kannte die Prinzipien der Natur und der Menschen so gut, das er im Umgang mit ihnen nur ein Minimum an Energie verbrauchte.
+Ein Mensch der das Dao verstanden hat, dessen Lebensstil ist Wu Wei. Dieses Prinzip wurde auch von den Ninja angewandt (*in shin tonkei*, Größtmögliche Wirkung, bei geringstmöglichem Aufwand). Ein Ninja kannte die Prinzipien der Natur und der Menschen so gut, das er im Umgang mit ihnen nur ein Minimum an Energie verbrauchte.

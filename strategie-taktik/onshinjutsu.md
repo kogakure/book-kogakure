@@ -1,4 +1,4 @@
-# Onshinjutsu
+# Onshin jutsu
 
 
 ## Die Kunst des Versteckens
@@ -18,7 +18,7 @@ Um die Kunst des Versteckens zu begreifen, muss man zuerst seine eigenen Sinne v
 
 ## Die fünf Methoden des Inpō
 
- Basierend auf der Grundlage des *godai* wurde ein Prinzip entwickelt, das *ninja* beim Verbergen anwenden konnten. Diese Aspekte haben große Ähnlichkeit mit dem *gotonpō*, und es ist im Prinzip auch nicht möglich die vielen Bereiche strikt zu trennen, da jeder Bereich mit einem anderen Bereich in direkter Wechselwirkung steht.
+ Basierend auf der Grundlage des *godai* wurde ein Prinzip entwickelt, das Ninja beim Verbergen anwenden konnten. Diese Aspekte haben große Ähnlichkeit mit dem *goton pō*, und es ist im Prinzip auch nicht möglich die vielen Bereiche strikt zu trennen, da jeder Bereich mit einem anderen Bereich in direkter Wechselwirkung steht.
 
 
 ### Chi – Methode der Erde
@@ -68,7 +68,7 @@ Um die Kunst des Versteckens zu begreifen, muss man zuerst seine eigenen Sinne v
 - Wenn man sich über weite Flächen bewegen muss, so sollte man die Route vorher planen und immer von Deckung zu Deckung springen. Dabei niemals längere Zeit gerade Strecken laufen
 - Mulden und Erdlöcher sollten ausgenutzt werden, wenn man beobachtet
 - Frische Erde eines Aushubes sollte verdeckt oder weggeschafft werden
-- In absoluter Dunkelheit benutzte der *ninja* einen Trick, um sich zu orientieren. Er stellte das *saya* auf die Spitze seiner Schwertklinge. Damit es nicht herunterfiel, hielt er es am Band mit den Zähnen fest. Wenn er gegen einen Gegner stieß, ließ er einfach das *saya* fallen und hatte das Schwert sofort schlagbereit in der Hand. Außerdem diente es als Sonde und durch die doppelte Entfernung (*saya* und Klinge) war er immer außerhalb der Reichweite des Gegenstandes oder der Person, die er mit dieser Sonde spürte
+- In absoluter Dunkelheit benutzte der Ninja einen Trick, um sich zu orientieren. Er stellte das *saya* auf die Spitze seiner Schwertklinge. Damit es nicht herunterfiel, hielt er es am Band mit den Zähnen fest. Wenn er gegen einen Gegner stieß, ließ er einfach das *saya* fallen und hatte das Schwert sofort schlagbereit in der Hand. Außerdem diente es als Sonde und durch die doppelte Entfernung (*saya* und Klinge) war er immer außerhalb der Reichweite des Gegenstandes oder der Person, die er mit dieser Sonde spürte
 - Lichtquellen sollten unter keinen Umständen zu sehen sein
 - Natürliche Tarnmittel müssen häufig ausgewechselt werden, weil sie sonst durch Verwelkung oder Trockenheit auffallen können
 - Die Tarnmittel müssen in die Region passen, die natürliche Wuchsrichtung und -art ist zu beachten, d. h. Blattunterseiten sollten nach innen zeigen

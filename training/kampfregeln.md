@@ -24,7 +24,7 @@ Es kann vorkommen die eigene geistige Ausstrahlung nicht ausreicht, um das Aufko
 
 Normalerweise verspürt man ein starkes Unbehagen, bis eine gefährliche Situation an einem vorbeigezogen ist. Wenn man sich aber erhebt und der Bedrohung ein schnelles Ende bereitet kann man schnell wieder in eine entspannte, ruhige Lage zurückkehren.
 
-Das Erlernen und Ertragen solcher Situationen, in denen man Niederlagen, Angst oder Demütigungen hinnehmen muss, um das zu erreichen was man will sind tiefverwurzelt im *ninjutsu*. Die Silbe *nin* bedeutet Ausdauer, ausharren, ertragen, zurechtkommen mit. Dies ist einer der schwersten Übungen, denn vor allem im Angesicht des Todes auszuharren fordert sehr viel Überwindung.
+Das Erlernen und Ertragen solcher Situationen, in denen man Niederlagen, Angst oder Demütigungen hinnehmen muss, um das zu erreichen was man will sind tiefverwurzelt im Ninjutsu. Die Silbe *nin* bedeutet Ausdauer, ausharren, ertragen, zurechtkommen mit. Dies ist einer der schwersten Übungen, denn vor allem im Angesicht des Todes auszuharren fordert sehr viel Überwindung.
 
 
 ## Zweite Regel
@@ -33,9 +33,9 @@ Es ist wichtig die eigenen Gefühle zu überwinden, damit man sich nicht automat
 
 Hierbei zählt das Prinzip **Schützte deinen Gegner**. Einen Gegner schwer zu verwunden ist oft leichter, als ihn nur ins Leere laufen zu lassen, oder mehrere Gegner gegeneinander laufen zu lassen. Wenn wir den Gegner versuchen zu schützten, d. h. vor seinen eigenen Taten, so werden wir auch nicht als Übeltäter hingestellt werden können, wenn der Gegner sich verletzt. Verletzt er sich *selbst*, so haben wir eine reine Weste.
 
-Viele Leute denken, wenn sie *ninjutsu* betrachten zuerst an körperliche Kampftechniken. Doch in Wirklichkeit kommen sie erst an dritter Stelle. Kampf ist die am wenigsten geeignete Methode, um ein harmonisches und natürliches Leben zu verleben. Wenn der Kampf beginnt, hat man schon eine Niederlage eingesteckt. Und **wer mit Gewalt lebt, wird durch Gewalt sterben**.
+Viele Leute denken, wenn sie Ninjutsu betrachten zuerst an körperliche Kampftechniken. Doch in Wirklichkeit kommen sie erst an dritter Stelle. Kampf ist die am wenigsten geeignete Methode, um ein harmonisches und natürliches Leben zu verleben. Wenn der Kampf beginnt, hat man schon eine Niederlage eingesteckt. Und **wer mit Gewalt lebt, wird durch Gewalt sterben**.
 
-Die Ausbildung im *ninjutsu* beginnt meist trotzdem mit dem körperlichen Training, da eine solide Kenntnis der physischen Gegebenheiten eine notwendige Voraussetzung für geistiges Wachstum sind. Das Nahkampftraining kann dazu verwendet werden, um die eigenen Gefühle und Stimmungen in Auseinandersetzungen kennenzulernen und zu verstehen.
+Die Ausbildung im Ninjutsu beginnt meist trotzdem mit dem körperlichen Training, da eine solide Kenntnis der physischen Gegebenheiten eine notwendige Voraussetzung für geistiges Wachstum sind. Das Nahkampftraining kann dazu verwendet werden, um die eigenen Gefühle und Stimmungen in Auseinandersetzungen kennenzulernen und zu verstehen.
 
 Trotzdem wäre es wünschenswert, wenn viele Kämpfer sich den geistigen Aspekten ihrer Kunst schon früher widmen würden.
 
@@ -44,9 +44,9 @@ Trotzdem wäre es wünschenswert, wenn viele Kämpfer sich den geistigen Aspekte
 
 Die eigenen körperlichen Fähigkeiten so zu vervollkommnen, dass jede Auseinandersetzung erfolgreich überstanden werden kann, ist ein wichtiges Ziel in der eigenen Entwicklung. Dieses Ziel wird durch Körpertraining erreicht.
 
-*Ninjutsu* beinhaltet zahlreiche Elemente der Selbstverteidigung und eine ganze Reihe von körpereigenen Waffen, die im Zusammenspiel mit Waffentechniken, Dynamik, Energiegewinnung und anderen Aspekten zu einem einzigartigen Kampfsystem verschmolzen werden. Es ist das gleiche Gefühl, wenn man einen Halbkreisfußtritt ausführt, als wenn man einen Schwerthieb ausführt. *Ninjutsu* ist daher eher eine Reihe von Gefühlen, als eine Techniksammlung.
+Ninjutsu beinhaltet zahlreiche Elemente der Selbstverteidigung und eine ganze Reihe von körpereigenen Waffen, die im Zusammenspiel mit Waffentechniken, Dynamik, Energiegewinnung und anderen Aspekten zu einem einzigartigen Kampfsystem verschmolzen werden. Es ist das gleiche Gefühl, wenn man einen Halbkreisfußtritt ausführt, als wenn man einen Schwerthieb ausführt. Ninjutsu ist daher eher eine Reihe von Gefühlen, als eine Techniksammlung.
 
-Da jeder Mensch einzigartig ist, sowohl in Statur und geistiger Verfassung, zwingt das *ninjutsu* seine Schüler nicht starre Bewegungsreihen nachzuahmen. Es werden eher Leitlinien gegeben, die natürlichen gefühlsmäßigen und körperlichen Reaktionen zu entwickeln.
+Da jeder Mensch einzigartig ist, sowohl in Statur und geistiger Verfassung, zwingt das Ninjutsu seine Schüler nicht starre Bewegungsreihen nachzuahmen. Es werden eher Leitlinien gegeben, die natürlichen gefühlsmäßigen und körperlichen Reaktionen zu entwickeln.
 
 
 ## Hinweise für einen Kampf

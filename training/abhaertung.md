@@ -3,12 +3,12 @@
 
 ## Den Körper gegen Angriffe stärken
 
-Das *dakentaijutsu* des *ninjutsu* beinhaltet zwei verschiedene Methoden, von denen gesagt wird, sie wären in China entwickelt worden. *Koppōjutsu* beinhaltet Knochenbrechtechniken gegen die härteren Knochen des Gegners und *koshijutsu* beinhaltet Stiche gegen Muskeln und Organe. Um die Körperwaffen beständiger für die Schläge zu machen gibt es zahlreiche Möglichkeiten sie abzuhärten. Dies ist unbedingt nötig, da eine ungeübte Körperwaffe leicht schmerzhafte Schwellungen oder Blutergüsse bekommt.
+Das *daken taijutsu* des Ninjutsu beinhaltet zwei verschiedene Methoden, von denen gesagt wird, sie wären in China entwickelt worden. *Koppō jutsu* beinhaltet Knochenbrechtechniken gegen die härteren Knochen des Gegners und *koshi jutsu* beinhaltet Stiche gegen Muskeln und Organe. Um die Körperwaffen beständiger für die Schläge zu machen gibt es zahlreiche Möglichkeiten sie abzuhärten. Dies ist unbedingt nötig, da eine ungeübte Körperwaffe leicht schmerzhafte Schwellungen oder Blutergüsse bekommt.
 
 
 ## Finger und Hände
 
-Die Finger oder Hände stärkt man, indem man es einer Katze gleichtut. Der *ninja* schlägt seine Hände oder Finger gegen einen Baum, und stärkt sie so allmählich.  Ebenfalls eignet sich ein Kissen, das mit Bleischrot oder Steinen gefüllt ist.  Oder man schlägt auf das Kissen und greift kraftvoll zu.
+Die Finger oder Hände stärkt man, indem man es einer Katze gleichtut. Der Ninja schlägt seine Hände oder Finger gegen einen Baum, und stärkt sie so allmählich.  Ebenfalls eignet sich ein Kissen, das mit Bleischrot oder Steinen gefüllt ist.  Oder man schlägt auf das Kissen und greift kraftvoll zu.
 
 Die Speerhand wird am besten abgehärtet, indem man sie in einen Eimer bohrt, der mit Sand, Bleischrot oder Kieselsteinen gefüllt ist. Man beginnt mit weichem Sand und je weiter man fortgeschritten ist, folgen härterer Sand, kleine Steine und größere Steine.
 

@@ -14,15 +14,15 @@ Ganz in der Nähe, südöstlich von Iga in den Yoshino-Bergen ist der Ort, an de
 
 ## Der Iga-Ryū
 
-Im Iga-*ryū* gab es viele andere *ryū* mit ihren eigenen Spezialitäten und Traditionen, aber der Ursprung aller Iga-*ryū* Kriegskünste soll auf Ikai zurückreichen, der aus China in eine Höhle auf dem Berg Takeo floh. Was er aus China mitbrachte, war zuallererst das Wissen des *koshijutsu* (Techniken gegen Muskeln und Sehnen), das er neben vielen anderen auch Gamon Doshi (Moralist) lehrte. Gamon Doshi und sein Schüler Garyū Doshi werden als Gründer fast aller Kriegskünste in der Region von Iga gesehen.
+Im Iga-*ryū* gab es viele andere *ryū* mit ihren eigenen Spezialitäten und Traditionen, aber der Ursprung aller Iga-*ryū* Kriegskünste soll auf Ikai zurückreichen, der aus China in eine Höhle auf dem Berg Takeo floh. Was er aus China mitbrachte, war zuallererst das Wissen des *koshi jutsu* (Techniken gegen Muskeln und Sehnen), das er neben vielen anderen auch Gamon Doshi (Moralist) lehrte. Gamon Doshi und sein Schüler Garyū Doshi werden als Gründer fast aller Kriegskünste in der Region von Iga gesehen.
 
-Aber es gibt ein Problem mit dieser Theorie. Nach Meister Hatsumi und anderen Quellen im Bujinkan, floh Ikai aus China irgendwann zwischen den Jahren 1040 und 1050. Die Gründe für seine Flucht waren, dass er mit den Bewohnern von Kitan und Xia gegen König Jinso (Song-Dynastie in China) gekämpft hatte und besiegt wurde. Nach den Geschichtsbüchern waren die Staaten Kitan und Xia zu dieser Zeit aber noch siegreich, und erst als sich der Kaiser Hui Zong mit Aguda von den Ruzhen zwischen 1123 und 1125 verbündete konnten die Staaten Kitan und Xia besiegt werden. Also müssen entweder die Daten von Hatsumi umgewertet werden oder es muss nach einer Verbindung zwischen Yo Gyokko und dem Sturz der Tang-Dynastie herausgefunden werden und wer *koshijutsu* nach Japan brachte.
+Aber es gibt ein Problem mit dieser Theorie. Nach Meister Hatsumi und anderen Quellen im Bujinkan, floh Ikai aus China irgendwann zwischen den Jahren 1040 und 1050. Die Gründe für seine Flucht waren, dass er mit den Bewohnern von Kitan und Xia gegen König Jinso (Song-Dynastie in China) gekämpft hatte und besiegt wurde. Nach den Geschichtsbüchern waren die Staaten Kitan und Xia zu dieser Zeit aber noch siegreich, und erst als sich der Kaiser Hui Zong mit Aguda von den Ruzhen zwischen 1123 und 1125 verbündete konnten die Staaten Kitan und Xia besiegt werden. Also müssen entweder die Daten von Hatsumi umgewertet werden oder es muss nach einer Verbindung zwischen Yo Gyokko und dem Sturz der Tang-Dynastie herausgefunden werden und wer *koshi jutsu* nach Japan brachte.
 
-> Es kann auch so gewesen sein, dass Yo Gyokko *koshijutsu* und Ikai das Wissen über Strategie und Hicho Kakuregata nach Japan brachte und sich aus beiden Systemen der Ursprung der Kriegskünste in Iga ergab.
+> Es kann auch so gewesen sein, dass Yo Gyokko *koshi jutsu* und Ikai das Wissen über Strategie und Hicho Kakuregata nach Japan brachte und sich aus beiden Systemen der Ursprung der Kriegskünste in Iga ergab.
 >
 > – **Hatsumi Masaaki**
 
-Garyū Doshi führte den Hakuun-*ryū* ein, eine Schule die von Hakuun Doshi entwickelt und benannt wurde. Hachiryū Nyudo ist ein andere Name, der erwähnt werden sollte, weil er wahrscheinlich Garyūs Wissen zu Tozawa Hakuunsai weitergab, dem ersten offiziellen Großmeister des Gyokko-*ryū*. Gyokko-*ryū* wird in den meisten Fällen als eine *koshijutsu*-Schule gesehen, aber es ist auch eine offizielle *ninpō*-Schule.
+Garyū Doshi führte den Hakuun-*ryū* ein, eine Schule die von Hakuun Doshi entwickelt und benannt wurde. Hachiryū Nyudo ist ein andere Name, der erwähnt werden sollte, weil er wahrscheinlich Garyūs Wissen zu Tozawa Hakuunsai weitergab, dem ersten offiziellen Großmeister des Gyokko-*ryū*. Gyokko-*ryū* wird in den meisten Fällen als eine *koshi jutsu*-Schule gesehen, aber es ist auch eine offizielle *ninpō*-Schule.
 
 Hakuun-*ryū* wurde an Kagakure Doshi (auch als Kain Doshi oder Kumogakure Doshi bekannt) weitergereicht, und es war Kagakure der dieses System Nishina Daisuke lehrte. Daisuke gründete den Togakure-*ryū* und dieser ist zusammen mit dem Gyokko-*ryū* einer der ältesten Traditionen in Iga. Beide Stile beeinflussten die anderen Schulen in Iga in großem Maß.
 
@@ -67,7 +67,7 @@ Einige Namen sind sehr interessant. Zum Beispiel Tozawa, denn Tozawa Hakuunsai w
 
 Die Toda-Familie ist auch interessant. Außer, dass sie die *soke* des Kumogakure-*ryū* waren, erbten sie auch den Togakure-*ryū* im 17ten Jahrhundert von der Natori-Familie, die den Togakure-*ryū* wieder erbten, als alle Toda-Familienmitglieder gestorben waren. Die Toda waren auch eng mit den Tozawa verbunden.
 
-Momochi war eine der berühmtesten Familien und Momochi Sandayu war ohne Frage der berühmteste *ninja*-Führer, zusammen mit Hanzo Hattori. Momochi Sandayu und drei seiner Nachkommen waren im 16ten Jahrhundert *soke* im Gyokko-*ryū* und Koto-*ryū*. Sie hatten auch Schulen der Sakagami-Familie geerbt. Im 17ten Jahrhundert wurden der Gyokko-*ryū*, Koto-*ryū*, Kumogakure-*ryū* und Togakure-*ryū* unter Toda Seiryū Nobutsuna weitergeführt. Später wurde auch der Gyokushin-*ryū* an die Toda-Familie weitergereicht. Andere Namen, die eine direkte Verbindung zum Bujinkan haben sind Ishitani, Izumo und Iga.
+Momochi war eine der berühmtesten Familien und Momochi Sandayu war ohne Frage der berühmteste Ninja-Führer, zusammen mit Hanzo Hattori. Momochi Sandayu und drei seiner Nachkommen waren im 16ten Jahrhundert *soke* im Gyokko-*ryū* und Koto-*ryū*. Sie hatten auch Schulen der Sakagami-Familie geerbt. Im 17ten Jahrhundert wurden der Gyokko-*ryū*, Koto-*ryū*, Kumogakure-*ryū* und Togakure-*ryū* unter Toda Seiryū Nobutsuna weitergeführt. Später wurde auch der Gyokushin-*ryū* an die Toda-Familie weitergereicht. Andere Namen, die eine direkte Verbindung zum Bujinkan haben sind Ishitani, Izumo und Iga.
 
 ## Mit dem Iga-Ryū verwandte Schulen
 
@@ -77,7 +77,7 @@ Hakuun-ryū, Togakure-ryū, Kumogakure-ryū, Genjitsu-ryū, Tenton Happo-ryū, G
 
 Diese Liste ist nicht komplett, denn viele *ryū* verschwanden in der Geschichte. Die Iga-*ryū* und Kumogakure-*ryū* waren ein einziger *ryū*, weil Iga-*ryū* einfach in Kumogakure-*ryū* umbenannt wurde. Die Gikan-*ryū* und Gyokushin-*ryū* wurden beide aus dem Gyokko-*ryū* entwickelt.
 
-Eine exakte Niederschrift der Geschichten der *ryū* ist fast unmöglich. Dies hat verschiedene Gründe, zum einen weil die Kriegskünste oft als *kuden* (Mund-zu-Mund Lehren) weitergegeben und nicht niedergeschrieben wurden. Eine andere Sache ist, dass die *soke* oft mehr als ein *menkyokaiden* (Entgültige Meisterschaft einer Kampfkunst) ausstellten, um dem *ryū* eine bessere Chance zu überleben zu geben. Andere *ryū* wiederum hatten nur eine einzige Person, die der nächste *soke* werden sollte, und wenn der Meister unerwartet starb, so starb auch sein *ryū*.
+Eine exakte Niederschrift der Geschichten der *ryū* ist fast unmöglich. Dies hat verschiedene Gründe, zum einen weil die Kriegskünste oft als *kuden* (Mund-zu-Mund Lehren) weitergegeben und nicht niedergeschrieben wurden. Eine andere Sache ist, dass die *soke* oft mehr als ein *menkyo kaiden* (Entgültige Meisterschaft einer Kampfkunst) ausstellten, um dem *ryū* eine bessere Chance zu überleben zu geben. Andere *ryū* wiederum hatten nur eine einzige Person, die der nächste *soke* werden sollte, und wenn der Meister unerwartet starb, so starb auch sein *ryū*.
 
 ### Bibliografie
 

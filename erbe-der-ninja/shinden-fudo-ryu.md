@@ -4,7 +4,7 @@
 
 ## Die Schule des Unbewegten Herzens
 
-Der Shinden-fudo-*ryū* wurde in der Mitte des 12. Jahrhundert von Genpachiro Temeyoshi gegründet. Man kann die Spuren bis zum *koshijutsu* zurückverflogen, der von Izumo Kanja Yoshitero eingeführt wurde. Es ist nicht klar, ob er die selbe Person ist wie der Izumo des Kukishinden-*ryū*.
+Der Shinden-fudo-*ryū* wurde in der Mitte des 12. Jahrhundert von Genpachiro Temeyoshi gegründet. Man kann die Spuren bis zum *koshi jutsu* zurückverflogen, der von Izumo Kanja Yoshitero eingeführt wurde. Es ist nicht klar, ob er die selbe Person ist wie der Izumo des Kukishinden-*ryū*.
 
 Die Basis der Lehre ist die Kenntnis der Natur. Das Training beginnt, indem man die Natur benutzt, um seinen Körper zu stärken. Zuerst die Beine und Hüften, danach die Fäuste.
 
@@ -20,7 +20,7 @@ Diese Schule ist auf *jūjutsu* und *iainuki* (Schwertschnellziehen) spezialisie
 
 Izumo soll der Umgang mit dem *yari* von *tengū* beigebracht worden sein, noch heute sind diese Techniken ein Geheimnis geblieben. In diesem *ryū* wurden verschieden *yari* eingesetzt, die *ono* (Kriegsaxt), *otsuchi* (Kriegshammer) und die *naginata*.
 
-Das *hōjōjutsu* (Die Kunst des Fesselns) wurde in diesem *ryū* auch eingesetzt. Mit den großen Kriegsäxten konnte man eine *samurai*-Rüstung zerschlagen, mit dem Kriegshammer konnte man Türen und Barrikaden zerschlagen. Die *naginata* wurde vor allem von Fußsoldaten gegen Reiter einsetzt.
+Das *hōjō jutsu* (Die Kunst des Fesselns) wurde in diesem *ryū* auch eingesetzt. Mit den großen Kriegsäxten konnte man eine Samurai-Rüstung zerschlagen, mit dem Kriegshammer konnte man Türen und Barrikaden zerschlagen. Die *naginata* wurde vor allem von Fußsoldaten gegen Reiter einsetzt.
 
 Im Shinden-fudo gibt es keine *kamae*, die *shizen no kamae* ist das Erkennungszeichen dieses *ryū*.
 
@@ -61,7 +61,7 @@ Takamatsu wurde das erste Jahr, als er bei seinem Großvater Toda den Shinden-fu
 26. Hatsumi Masaaki
 
 {% hint style='tip' %}
-[Shinden Fudô Ryû Dakentaijutsu no Kata: Bujinkan Budô Densho](https://www.amazon.de/gp/product/3924862257?ie=UTF8&tag=kogakurede-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=3924862257) von **Carsten Kühn** und **Tommy James Peters** auf Amazon.
+[Shinden Fudô Ryû Daken taijutsu no Kata: Bujinkan Budô Densho](https://www.amazon.de/gp/product/3924862257?ie=UTF8&tag=kogakurede-21&linkCode=as2&camp=1638&creative=6742&creativeASIN=3924862257) von **Carsten Kühn** und **Tommy James Peters** auf Amazon.
 {% endhint %}
 
 {% hint style='tip' %}

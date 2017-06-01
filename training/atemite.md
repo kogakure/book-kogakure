@@ -9,7 +9,7 @@
 Beim Training dürfen die Punkte **niemals** mit ganzer Kraft geschlagen werden, sondern nur leicht berührt oder mit steigendem Druck gedrückt werden, um zu prüfen, ob der Punkt getroffen wurde!
 {% endhint %}
 
-Ein *ninja* sollte über die Punkte des Körpers immer genau Bescheid wissen, zum einen um sich besser schützen zu können und zum anderen, um sich wirkungsvoll verteidigen zu können.
+Ein Ninja sollte über die Punkte des Körpers immer genau Bescheid wissen, zum einen um sich besser schützen zu können und zum anderen, um sich wirkungsvoll verteidigen zu können.
 
 Um eine Wirkung bei *atemi* zu erzielen müssen die Schläge perfekt beherrscht werden und extrem genau platziert (auf möglichst kleiner Fläche). Um den Gegner nicht sofort zu töten muss man die Konstitution des Gegners berechnen und so die Schlagdosierung festlegen.
 

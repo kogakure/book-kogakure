@@ -3,7 +3,7 @@
 
 ## Entwicklung eines natürlichen Bewußtseins
 
-Die *ninja* hatten als Ziel die Entwicklung des *kiai*-Bewusstseins, d. h. sie wollten *durch und durch natürliche Wesen* werden. Dafür ist es nötig, dass man das Wirken der kosmischen Gesetze oder des Universalbewusstseins direkt an sich selbst erfährt. Dazu muss man die Natur unvoreingenommen beobachten und seine eigene Verbindung zu allen Dingen verstehen. Dies führt zu Selbsterkenntnis.
+Die Ninja hatten als Ziel die Entwicklung des *kiai*-Bewusstseins, d. h. sie wollten *durch und durch natürliche Wesen* werden. Dafür ist es nötig, dass man das Wirken der kosmischen Gesetze oder des Universalbewusstseins direkt an sich selbst erfährt. Dazu muss man die Natur unvoreingenommen beobachten und seine eigene Verbindung zu allen Dingen verstehen. Dies führt zu Selbsterkenntnis.
 
 Dafür benutzten sie zwei verschiedene Systeme der Betrachtung der Natur – das *godai* und das *gogyō*.
 

@@ -20,8 +20,8 @@ Mit der fließenden Handlung eng verbunden ist *ritsudō*. Der Rhythmus ist das 
 
 *Undō* meint Bewegung. Zu diesem Begriff zählt man auch die Technik und die Körperbewegung. Die Körperbewegung wird in zwei Bereiche aufgeteilt:
 
-- **Shishiundō** (Extremitätenbewegung)
-- **Taisabaki** (Rumpfbewegung)
+- **Shishi undō** (Extremitätenbewegung)
+- **Tai sabaki** (Rumpfbewegung)
 
 
 ## Kokyūhō

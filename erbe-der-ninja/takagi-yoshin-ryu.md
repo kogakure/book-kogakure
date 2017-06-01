@@ -10,13 +10,13 @@ Die Amatsu Tatara Schriftrollen wurden von den Abe, Nakatomi, Otomo und den Mono
 
 Unryu lehrte sein System Ito Sukesada, einem berühmten Kampfkünstler zu seiner Zeit. Er war ein Samurai aus Katakura Kojuro in der Fukushima Provinz und fügte *hanbō*, *kenjutsu* und *kodachi* zu den Lehren von Unryu dazu.
 
-Er lehrte die Techniken, die später zum Takagi-yoshin-*ryū* werden sollten Takagi Oriemon Shigenobu, einem jungen *samurai* aus Tohoku-Shiroishi Han in Oku. Er wurde am 2. April 1625 geboren und starb am 7. Oktober 1711. Er erlangte das *menkyōkaiden*, als er gerade 20 Jahre alt war. Am 15. August 1695 wurde er vom Kaiser Higashiyama zum *shihan* in 6 verschiedenen Kampfkünsten der kaiserlichen Leibwächter ernannt.
+Er lehrte die Techniken, die später zum Takagi-yoshin-*ryū* werden sollten Takagi Oriemon Shigenobu, einem jungen Samurai aus Tohoku-Shiroishi Han in Oku. Er wurde am 2. April 1625 geboren und starb am 7. Oktober 1711. Er erlangte das *menkyōkaiden*, als er gerade 20 Jahre alt war. Am 15. August 1695 wurde er vom Kaiser Higashiyama zum *shihan* in 6 verschiedenen Kampfkünsten der kaiserlichen Leibwächter ernannt.
 
 Er veränderte, verbesserte und erweiterte die Techniken, die er von Ito gelernt hatte und fasste sie als Takagi-yoshin-*ryū* zusammen, nach sich selbst benannt.
 
 Er lernte eifrig, um sich selbst zu verbessern, um damit den Mord an seinem Vater zu rächen. Sein Vater hatte ihm eine wertvolle Lehre hinterlassen: <q>Eine Weide ist flexibel, aber ein hoher Baum ist zerbrechlich</q>.
 
-Der Stil wurde im Lauf der Geschichte verschieden genannt, unter anderem auch *jūtaijutsu*, *jūjutsu* und *dakentaijutsu*. Der *ryū* wurde stark vom Takenouchi *ryū* *jūjutsu* und vom Kukishin-*ryū* beeinflusst.
+Der Stil wurde im Lauf der Geschichte verschieden genannt, unter anderem auch *jū tai jutsu*, *jūjutsu* und *daken taijutsu*. Der *ryū* wurde stark vom Takenouchi *ryū* *jūjutsu* und vom Kukishin-*ryū* beeinflusst.
 
 Im 17. Jahrhundert hatten der *sōke* des Takagi-yoshin-*ryū*, Takagi Gebboshin Hideshige und der *sōke* des Kukishin-*ryū* Ohkuni Kihei Shigenobu einen Wettkampf und wurden enge Freunde. Beide Systeme tauschten Informationen und wurden deshalb umstrukturiert.
 

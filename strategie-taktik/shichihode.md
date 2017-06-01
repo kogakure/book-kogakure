@@ -1,4 +1,4 @@
-# Shichihōde
+# Shichi hō de
 
 
 ## Untertauchen durch Reizüberflutung
@@ -11,12 +11,12 @@ Im täglichen Leben begegnen wir zahllosen Menschen, von denen die meisten nur k
 
 Unser Bewusstsein filtert alles weg, was für unser Überleben nicht notwendig ist. Das bedeutet, dass nur Personen die wir kennen, Menschen mit auffälliger Statur, besonderem Auftreten oder körperlichen Merkmalen in unser Bewusstsein vordringen. Die anderen Personen werden zwar meist wahrgenommen, vielleicht hat man sogar im vorbeigehen Augenkontakt, doch nach wenigen Augenblicken ist das meiste wieder aus unserem Bewusstsein verschwunden.
 
-Im Mittelalter bedeutete dies, das der *ninja* die meiste Zeit seines Auftrags in einer natürlichen Verkleidung unterwegs war. Nur einen sehr geringen Anteil seiner Aufträge erledigte er in dem typischen, schwarzen Kampfanzug.
+Im Mittelalter bedeutete dies, das der Ninja die meiste Zeit seines Auftrags in einer natürlichen Verkleidung unterwegs war. Nur einen sehr geringen Anteil seiner Aufträge erledigte er in dem typischen, schwarzen Kampfanzug.
 
 
 ## Die sieben Verkleidungen im Mittelalter
 
-Das mittelalterliche System des *shichihōde* bestand aus sieben verschiedenen Verkleidungen und Berufsgruppen, die zu dieser Zeit häufig anzutreffen waren. Es stellt aber nur ein Denkmodell dar, keinesfalls beschränkte sich ein *ninja* nur auf diese sieben Verkleidungen, er passte die Verkleidung immer der Umgebung und dem Nutzen an. Er konnte auch als Arzt, Reisender, Bauer, Soldat, Fischer oder in einer anderen Rolle auftreten.
+Das mittelalterliche System des *shichi hō de* bestand aus sieben verschiedenen Verkleidungen und Berufsgruppen, die zu dieser Zeit häufig anzutreffen waren. Es stellt aber nur ein Denkmodell dar, keinesfalls beschränkte sich ein Ninja nur auf diese sieben Verkleidungen, er passte die Verkleidung immer der Umgebung und dem Nutzen an. Er konnte auch als Arzt, Reisender, Bauer, Soldat, Fischer oder in einer anderen Rolle auftreten.
 
 - Akindo (Händler)
 - Hōkashi (Musiker)
@@ -26,14 +26,14 @@ Das mittelalterliche System des *shichihōde* bestand aus sieben verschiedenen V
 - Shukke (buddhistischer Mönch)
 - Yamabushi (kriegerischer Bergasket)
 
-Das *shichihōde* besteht aus zwei wichtigen Komponenten. Zum einen aus dem *hensōjutsu* (Kunst des Verkleidens), und zum anderen aus dem *gisōjutsu* (Kunst des Sich-hinein-denkens in andere).
+Das *shichi hō de* besteht aus zwei wichtigen Komponenten. Zum einen aus dem *hensō jutsu* (Kunst des Verkleidens), und zum anderen aus dem *gisō jutsu* (Kunst des Sich-hinein-denkens in andere).
 
-Im *hensōjutsu* lernte der *ninja*, wie man die Verkleidung anlegt und dem eigenen Körper anpasst. Im *gisōjutsu* lernte man, wie man eine Person nachahmt, was für Merkmale und Eigenschaften man sich verinnerlichen musste.
+Im *hensō jutsu* lernte der Ninja, wie man die Verkleidung anlegt und dem eigenen Körper anpasst. Im *gisō jutsu* lernte man, wie man eine Person nachahmt, was für Merkmale und Eigenschaften man sich verinnerlichen musste.
 
 
 ## Eine moderne Anpassung
 
-Natürlich ist es heute nicht mehr möglich als *samurai* unauffällig durch sein Einsatzgebiet zu gehen. Doch die Methoden des *ninjutsu* sind zeitlos, sie müssen nur hin- und wieder angepasst werden. Stephen K. Hayes hat eine aktuellere Version der *shichihōde* entwickelt:
+Natürlich ist es heute nicht mehr möglich als Samurai unauffällig durch sein Einsatzgebiet zu gehen. Doch die Methoden des Ninjutsu sind zeitlos, sie müssen nur hin- und wieder angepasst werden. Stephen K. Hayes hat eine aktuellere Version der *shichi hō de* entwickelt:
 
 
 ### Scholastiker
@@ -70,12 +70,12 @@ Alle Personen, die in ihrem Beruf körperlichen Einsatz bringen, wie Bauarbeiter
 
 Zu diesem Bereich zählt man Reparaturteams, Mitarbeiter vom Wasserwerk oder Stromgesellschaften, Gefängniswärter, Polizisten, Krankenpfleger, Militär, Sicherheitsbeamte und Wachpersonal. Im Prinzip kommt man mit dieser Tarnung wahrscheinlich am weitesten und darf vielleicht sogar sicherheitsrelevante Bereiche betreten. Es versteht sich von selbst, das man die nötigen Papier und Genehmigungen vorweisen können muss.
 
-Natürlich sind mit diesen Berufsgruppen die Möglichkeiten noch lange nicht erschöpft. Ein zeitgenössischer *ninja* fühlt sich von keiner Beschränkung beeinflusst und wird nach belieben seiner Phantasie den freien Lauf lassen.
+Natürlich sind mit diesen Berufsgruppen die Möglichkeiten noch lange nicht erschöpft. Ein zeitgenössischer Ninja fühlt sich von keiner Beschränkung beeinflusst und wird nach belieben seiner Phantasie den freien Lauf lassen.
 
 
 ## Anpassung an die Verkleidung
 
-Das Ziel sollte immer sein, nicht die Rolle zu wählen, die man am leichten Darstellen kann, sondern diejenige zu wählen, die den *ninja* am nächsten an sein Ziel bringt. Unter Umständen ist der Weg nicht einfach, es kann auch vorkommen, das der *ninja* sich erst eine Zeit lang in ein Team von Arbeitern einarbeiten muss, bis er an seinen Zielort oder zu seiner Zielperson gelangt.
+Das Ziel sollte immer sein, nicht die Rolle zu wählen, die man am leichten Darstellen kann, sondern diejenige zu wählen, die den Ninja am nächsten an sein Ziel bringt. Unter Umständen ist der Weg nicht einfach, es kann auch vorkommen, das der Ninja sich erst eine Zeit lang in ein Team von Arbeitern einarbeiten muss, bis er an seinen Zielort oder zu seiner Zielperson gelangt.
 
 
 ### Typ
@@ -90,12 +90,12 @@ Am einfachsten ist es die Haartracht und Haarfarbe zu verändern. Die Körperfor
 
 ### Wissen und Fähigkeiten
 
-Weitaus schwieriger ist es für einen *ninja* sich das nötige Fachwissen der Berufsgruppe anzueignen. Natürlich kann man sich durch Bücher, an Hochschulen oder in Kursen auf einen Beruf vorbereiten, doch kann es durchaus vorkommen, das man gezwungen wird sein Fachwissen zu beweisen. Je nach Berufsgruppe kann sich dies als Unterschiedlich schwer erweisen.
+Weitaus schwieriger ist es für einen Ninja sich das nötige Fachwissen der Berufsgruppe anzueignen. Natürlich kann man sich durch Bücher, an Hochschulen oder in Kursen auf einen Beruf vorbereiten, doch kann es durchaus vorkommen, das man gezwungen wird sein Fachwissen zu beweisen. Je nach Berufsgruppe kann sich dies als Unterschiedlich schwer erweisen.
 
 
 ### Sprache
 
-Die Sprache stellt einen weiteren, schweren Teil der Verwandlung dar. Ein erfahrener *ninja* spricht so wenig, wie möglich, um sich nicht zu enttarnen. Natürlich kann ein übermäßiges Zurückhalten in gewissen Berufszweigen sehr verdächtig wirken, doch Schweigen ist meist sicherer, weil man nicht in eventuelle Frage-/Antwortgespräche verwickelt werden kann. Man muss sich unbedingt mit der richtigen Aussprache, Sprachqualität und Akzent vertraut machen. Die nötige Fachsprache, Redewendungen und Umgangssprache muss unbedingt zur Rolle passen. Wenn man in fremden Ländern ist, so kommt noch die Barriere der Fremdsprache hinzu, denn wenn man nicht akzentfrei sprechen kann, fällt man sofort als Fremder auf.
+Die Sprache stellt einen weiteren, schweren Teil der Verwandlung dar. Ein erfahrener Ninja spricht so wenig, wie möglich, um sich nicht zu enttarnen. Natürlich kann ein übermäßiges Zurückhalten in gewissen Berufszweigen sehr verdächtig wirken, doch Schweigen ist meist sicherer, weil man nicht in eventuelle Frage-/Antwortgespräche verwickelt werden kann. Man muss sich unbedingt mit der richtigen Aussprache, Sprachqualität und Akzent vertraut machen. Die nötige Fachsprache, Redewendungen und Umgangssprache muss unbedingt zur Rolle passen. Wenn man in fremden Ländern ist, so kommt noch die Barriere der Fremdsprache hinzu, denn wenn man nicht akzentfrei sprechen kann, fällt man sofort als Fremder auf.
 
 
 ### Einsatzgebiet
@@ -109,4 +109,4 @@ Wenn man die Rolle einer anderen Person annehmen will, so muss man sich auch der
 
 Zu bedenken ist auch, das bei den meisten Berufsgruppen zwischen privat und beruflich zu unterscheiden ist. Polizisten reden nicht ständig über Verbrechen und dessen Bekämpfung.
 
-Man muss sich beim *shichihōde* mit dem ganzen Geist auf die Rolle, die man spielen möchte einstellen und zeitweise ein anderer Mensch werden. Dabei darf man sich aber nicht in der neuen Rolle verlieren, so dass eine Rückkehr zum alten *Ich* nicht mehr möglich ist oder gar abgelehnt wird. Dieses benötigt eine ausgesprochen starke Persönlichkeit.
+Man muss sich beim *shichi hō de* mit dem ganzen Geist auf die Rolle, die man spielen möchte einstellen und zeitweise ein anderer Mensch werden. Dabei darf man sich aber nicht in der neuen Rolle verlieren, so dass eine Rückkehr zum alten *Ich* nicht mehr möglich ist oder gar abgelehnt wird. Dieses benötigt eine ausgesprochen starke Persönlichkeit.
