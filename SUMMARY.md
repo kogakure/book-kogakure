@@ -99,4 +99,8 @@
 
 ----
 
+## Anhänge
+
+- [Chronologie der Website](anhang/chronologie.md)
+- [Empfehlungen](anhang/empfehlungen.md)
 - [Glossar](glossar.md)
