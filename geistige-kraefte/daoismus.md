@@ -7,6 +7,8 @@ Es ist schwer zu erklären, was das Dao ist. Denn schon im ersten Vers von Laotz
 >
 > – **Laotzu**, Do de jing
 
+{%youtube%}dFb7Hxva5rg{%endyoutube%}
+
 Daoismus ist eine Lebensweise, der das Mitgehen mit dem Lauf der Zeit bedeutet. Diesen *natürlichen Lauf* kann man z. B. im strömenden Wasser, in den Flammen des Feuers, den Wolken, die am Himmel ziehen erkennen.
 
 Gerade heute, wo der Mensch immer weiter danach strebt alles zu beherrschen und zu kontrollieren, und dadurch furchtbare Dinge tut, stellt der Daoismus eine gute Alternative dar.
