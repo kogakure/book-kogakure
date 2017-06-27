@@ -1,9 +1,9 @@
 # KOGAKURE (木隠)
 Ein Buch über Ninja und Ninjutsu
 
-[Cover]
+![木隠 | KOGAKURE, ein Buch von Stefan Imhoff](cover_web.jpg)
 
-Geschrieben von [Stefan Imhoff].
+Ein Buch von [Stefan Imhoff]. Mit Übersetzungen einiger Texte von *Peter Carlsson*. Das Foto *Bamboo* für das Cover ist von [*David Chilstrom*](https://www.flickr.com/photos/chilstrom/299326607/).
 
 ----
 
