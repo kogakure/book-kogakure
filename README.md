@@ -11,7 +11,7 @@ Ein Buch von [Stefan Imhoff]. Mit Übersetzungen einiger Texte von *Peter Carlss
 
 Dieses Buch und die dazugehörende Website [kogakure.de] gibt es nur, weil vor fast 18 Jahren zwei Dinge zur gleichen Zeit aufeinander trafen: Mein Interesse für Ninjutsu und mein Interesse für Webdesign.
 
-Als ich in den 90ern zum ersten Mal mit Ninjutsu in Kontakt kam, war Information sehr schwer zu finden. Dōjō gab es nur sehr spärlich im deutschen Raum, keines davon in Reichweite für mich. Bücher gab es kaum, und die wenigen Bücher, die es gab waren sehr schwer zu beschaffen (ich musste im Voraus bezahlen, ohne sie je gesehen zu haben und wochen- oder gar monatelang auf die Lieferung warten). Ich habe damals jede Information, die mir in die Hände viel gesammelt und mir Notizen gemacht. Diese Notizensammlung wurde das, was heute die Website [kogakure.de] ist.
+Als ich in den 90ern zum ersten Mal mit Ninjutsu in Kontakt kam, war Information sehr schwer zu finden. Dōjō gab es nur sehr spärlich im deutschen Raum, keines davon in Reichweite für mich. Bücher gab es kaum, und die wenigen Bücher, die es gab waren sehr schwer zu beschaffen (ich musste im Voraus bezahlen, ohne sie je gesehen zu haben und wochen- oder gar monatelang auf die Lieferung warten). Ich habe damals jede Information, die mir in die Hände fiel gesammelt und mir Notizen gemacht. Diese Notizensammlung wurde das, was heute die Website [kogakure.de] ist.
 
 Für dieses Buch habe ich den Inhalt der Website noch einmal komplett überarbeitet, Fehler korrigiert, Fotos und Grafiken (wenn möglich) ausgetauscht und wo immer möglich auf Vektorgrafiken umgestellt.
 
