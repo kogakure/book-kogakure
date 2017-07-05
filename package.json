@@ -23,8 +23,11 @@
   },
   "homepage": "https://kogakure.de",
   "devDependencies": {
+    "gitbook-cli": "^2.3.0",
     "gitbook-plugin-bibtex-cite": "^1.1.0",
+    "gitbook-plugin-highlight": "^2.0.3",
     "gitbook-plugin-hints": "^1.0.2",
-    "gitbook-plugin-wordcount": "0.0.1"
+    "gitbook-plugin-wordcount": "0.0.1",
+    "gitbook-plugin-youtubex": "^2.0.3"
   }
 }
