@@ -5,7 +5,11 @@
 
 ### 22. Dezember 1999
 
-Meine Ninjutsu-Website geht am 22. Dezember 1999 online. Zuerst auf einem Shared Space ohne eigene Domain. Später läuft sie unter zwei verschiedenen Domains, ehe sie ihren finalen Namen bekommt: **kogakure** (木隠, jap. *Hinter Blättern und Bäumen verborgen*). Ich erinnere mich noch, wie ich in einem sehr dicken, japanischen Wörterbuch nach einem Begriff gesucht habe, den es im Internet noch nicht gab und der auch eine Bedeutung hat.
+Meine Ninjutsu-Website geht am 22. Dezember 1999 online. Zuerst auf einem Shared Space ohne eigene Domain. Später läuft sie unter zwei verschiedenen Domains, ehe sie ihren finalen Namen bekommt: **kogakure** (木隠, jap. *Hinter Blättern und Bäumen verborgen*). 
+
+Ich erinnere mich noch, wie ich in einem sehr dicken, japanischen Wörterbuch nach einem Begriff gesucht habe, den es im Internet noch nicht gab und der auch eine Bedeutung hat.
+
+Das Design hatte *natürlich* animierte Ninja-Sterne, unlesbare Schrift und einen Page Counter.
 
 ![Website 1999](/images/history-1999.jpg)
 
@@ -15,7 +19,7 @@ Meine Ninjutsu-Website geht am 22. Dezember 1999 online. Zuerst auf einem Shared
 
 ### Januar 2001
 
-Die Website hatte eigentlich nur als Sammlung von Notizen angefangen, sich in den nächsten zwei Jahren aber langsam zu einer größeren Website entwickelt. Im Januar 2001 war die Arbeit an der Website fast abgeschlossen. Zu dieser Zeit hatte ich eine geradezu aberwitzige Menge an Stunden in die Recherche und das Schreiben der Artikel investiert. Außerdem hatte ich zahlreiche komplizierte 3D-Modelle von Waffen, Werkzeugen und Techniken in Blender und 3d Studio Max erstellt.
+Die Website hatte eigentlich nur als Sammlung von Notizen angefangen, sich in den nächsten zwei Jahren aber langsam zu einer größeren Website entwickelt. Im Januar 2001 war die Arbeit an der Website fast abgeschlossen. Zu dieser Zeit hatte ich eine geradezu aberwitzige Menge an Stunden in die Recherche und das Schreiben der Artikel investiert. Außerdem hatte ich zahlreiche komplizierte 3D-Modelle von Waffen, Werkzeugen und Techniken in *Poser* und *3d Studio Max* erstellt.
 
 ![Website 2001](/images/history-2001.jpg)
 
@@ -69,15 +73,15 @@ Außerdem gab es Verbesserungen an den Schriften und das Design wurde insgesamt 
 
 #### Nominierung für das Webdesignbook
 
-Die Website wurde für das Webdesignbook nominiert. Das Webdesignbook war ein Projekt, das beeindruckende Designs auszeichnet. Die nominierten Seiten mussten  in tabellenlosem Layout, mit validem Markup und CSS umgesetzt sein. Einmal im Jahr wurden 150 Websites von einer namenhaften Jury ausgewählt und irgendwann im Herbst des Jahres in Buchform auf rund 248 Seiten publiziert. Zusätzlich wird das Buch Interviews mit Designern enthalten, Artikel über Designer, die Designs werden nach Farbe, Stil und Autor geordnet sein. In diesem Jahr bestand die Jury aus Andy Budd, Tammie Lister, John Oxton, Marco van Hylckama Vlieg, James Archer, Kyle Neath, Chris J. Davis und Thomas Silkjær.
+Die Website wurde für das **Webdesignbook** nominiert. Das Webdesignbook war ein Projekt, das beeindruckende Designs auszeichnet. Die nominierten Seiten mussten  in tabellenlosem Layout, mit validem Markup und CSS umgesetzt sein. Einmal im Jahr wurden 150 Websites von einer namenhaften Jury ausgewählt und irgendwann im Herbst des Jahres in Buchform auf rund 248 Seiten publiziert. Zusätzlich wird das Buch Interviews mit Designern enthalten, Artikel über Designer, die Designs werden nach Farbe, Stil und Autor geordnet sein. In diesem Jahr bestand die Jury aus Andy Budd, Tammie Lister, John Oxton, Marco van Hylckama Vlieg, James Archer, Kyle Neath, Chris J. Davis und Thomas Silkjær.
 
 ### 29. Oktober 2006
 
-#### Bujinkan bei „Welt der Wunder“
+#### Bujinkan bei *Welt der Wunder*
 
-Am Sonntag, 29. Oktober 2006 um 19:00 Uhr wurde in der Sendung „Welt der Wunder“ auf RTL2 eine Fernsehreportage über die Ninja ausgestrahlt.
+Am Sonntag, 29. Oktober 2006 um 19:00 Uhr wurde in der Sendung **Welt der Wunder** auf RTL2 eine Fernsehreportage über die Ninja ausgestrahlt.
 
-Das „Welt der Wunder“-Team hat dafür Hatsumi Sensei in Japan besucht und stellte historische Schlachten und Ninja-Einsätze nach. Einige deutsche Bujinkan Dōjō standen dem Filmteam sowohl vor der Kamera als auch dahinter zur Seite.
+Das Welt der Wunder-Team hat dafür Hatsumi Sensei in Japan besucht und stellte historische Schlachten und Ninja-Einsätze nach. Einige deutsche Bujinkan Dōjō standen dem Filmteam sowohl vor der Kamera als auch dahinter zur Seite.
 
 Ich hatte das Vergnügen die Redakteure mit dem theoretischen Fachwissen zu versorgen, bevor die Filmarbeiten begannen.
 
@@ -91,7 +95,7 @@ Ich hatte das Vergnügen die Redakteure mit dem theoretischen Fachwissen zu vers
 
 Am 25. Januar 2007 hatte meine Website ihren 100.000 Besucher seit Beginn der Zählung im Oktober 2005 die Seite besucht. Insgesamt hatten 100.015 Besucher 497.349 Seiten seit diesem Zeitpunkt aufgerufen.
 
-Die Beiträge über Ninja auf RTL2 (Welt der Wunder) und PRO7 (Galileo Mystery) hatten Spitzenwerte erzeugt. Das Interesse an den Artikeln war bei den Besuchern nach dem „Welt der Wunder“-Beitrag um ein vielfaches größer als bei den Besuchern des Beitrag von „Galileo Mystery“.
+Die Beiträge über Ninja auf RTL2 (**Welt der Wunder**) und PRO7 (**Galileo Mystery**) hatten Spitzenwerte erzeugt. Das Interesse an den Artikeln war bei den Besuchern nach dem *Welt der Wunder*-Beitrag um ein vielfaches größer als bei den Besuchern des Beitrag von *Galileo Mystery*.
 
 ------------------------------------------------------------------------------
 
@@ -113,11 +117,11 @@ Ich setzte dazu zum ersten Mal ein Web-Framework ein, wodurch ich jede einzelne 
 
 #### Abmahnung
 
-Da ich auf meiner Website eine kleine Sammlung von Sprüchen und Zitaten hatte, wurde ich wegen Urheberrechtsverletzung von den Erben von Karl Valentin abgemahnt. Ich musste eine Unterlassungserklärung unterschreiben und mein Anwalt konnte größeren Schaden abwehren. An die Kläger zahle ich nichts.
+Da ich auf meiner Website eine kleine Sammlung von Sprüchen und Zitaten hatte, wurde ich wegen Urheberrechtsverletzung von den Erben von **Karl Valentin** abgemahnt. Ich musste eine Unterlassungserklärung unterschreiben und mein Anwalt konnte größeren Schaden abwehren. An die Kläger zahle ich nichts.
 
 Ich kam zum ersten mal mit wirklich furchtbaren Menschen in Kontakt, deren ganzer Lebensinhalt darin bestand, anderen Menschen ihr Leben schwer zu machen. Da Karl Valentins Werke 2018 gemeinfrei werden, wollten die Erben so viel wie möglich verdienen, ehe diese Quelle versiegt.
 
-Das es sich hier um gewerbsmäßige Abmahnungen handelte wurde mir klar, als mir mein Anwalt mitteilte, dass alleine seine Kanzlei in Hamburg zu diesem einen besagten Spruch vier Klienten vertrat.
+Das es sich hier um **gewerbsmäßige Abmahnungen** handelte wurde mir klar, als mir mein Anwalt mitteilte, dass alleine seine Kanzlei in Hamburg zu diesem einen besagten Spruch vier Klienten vertrat.
 
 Leider war ich nach dieser Erfahrung gezwungen, die Sprüche ganz von der Website zu nehmen, da ich nicht für jeden Spruch zweifelsfrei feststellen konnte, ob der Urheber schon länger als 70 Jahre unter der Erde liegt.
 
@@ -140,3 +144,15 @@ Die ganze Website ist mobil-optimiert und läuft auf jedem Device.
 Den Bambus erstellt ich in [Affinity Designer](https://affinity.serif.com/designer/) komplett neu, um ihn als SVG direkt in die Seite einzubinden (und das Verlaufswerkzeug wird nicht von SVG unterstützt).
 
 ![Website 2015](/images/history-2015.jpg)
+
+------------------------------------------------------------------------------
+
+## 2017
+
+### 27. Juni 2017
+
+Nach sechs Monaten Arbeit veröffentliche ich ein **eBook** von kogakure.
+
+Ich nutze **GitBook**, um mein Buch zu schreiben und ebenso für das Hosting und das Bereitstellen der eBook-Varianten.
+
+Im Rahmen der Überarbeitung behebe ich zahlreiche Fehler, schaue über jeden Artikel, füge neue Bilder ein und ersetze wo immer möglich Grafiken mit SVG.
