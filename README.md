@@ -1,3 +1,5 @@
+![GitHub release](https://img.shields.io/github/release/kogakure/book-kogakure.svg)
+
 # KOGAKURE (木隠)
 Ein Buch über Ninja und Ninjutsu
 
