@@ -1,3 +1,4 @@
+[![Live](https://img.shields.io/badge/live-book.kogakure.de-green.svg)](https://book.kogakure.de/)
 ![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)
 ![GitHub release](https://img.shields.io/github/release/kogakure/book-kogakure.svg)
 
