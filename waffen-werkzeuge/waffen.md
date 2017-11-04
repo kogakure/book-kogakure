@@ -87,7 +87,7 @@ Das *daisharin* bestand aus zwei Rädern mit einer Achse. Die Ninja setzten es g
 
 ## Eiku
 
-Bootsruder, eigentlich eine Waffe aus Okinawa. Wenn der Ninja in Tarnung als Fischer war, konnte er sich damit sich gut verteidigen.
+Bootsruder, eigentlich eine Waffe aus Okinawa. Wenn der Ninja in Tarnung als Fischer war, konnte er sich damit gut verteidigen.
 
 
 ## Endoku ken
@@ -468,7 +468,7 @@ Der Kriegsfächer war eine beliebte Waffe, weil er auf den ersten Blick nicht wi
 
 ![Tetsubishi](/images/waffen-tetsubishi.jpg)
 
-Wenn ein Ninja verfolgt wurde, so streute er eine Handvoll dieser eisernen Metalldornen auf den Boden. Da in Japan Stohsandalen getragen wurden war es höchst schmerzhaft auf die Dornen zu treten und eine Verfolgung konnte nicht fortgesetzt werden. Das brillante an dieser Waffe war, dass egal wie man sie warf, immer ein Dorn nach oben ragte. Kommt auch in natürlicher Form in der Natur vor (*hishi*).
+Wenn ein Ninja verfolgt wurde, so streute er eine Handvoll dieser eisernen Metalldornen auf den Boden. Da in Japan Strohsandalen getragen wurden war es höchst schmerzhaft auf die Dornen zu treten und eine Verfolgung konnte nicht fortgesetzt werden. Das brillante an dieser Waffe war, dass egal wie man sie warf, immer ein Dorn nach oben ragte. Kommt auch in natürlicher Form in der Natur vor (*hishi*).
 
 
 ## Tetsubō
