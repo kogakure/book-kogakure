@@ -156,3 +156,17 @@ Nach sechs Monaten Arbeit veröffentliche ich ein **eBook** von kogakure.
 Ich nutze **GitBook**, um mein Buch zu schreiben und ebenso für das Hosting und das Bereitstellen der eBook-Varianten.
 
 Im Rahmen der Überarbeitung behebe ich zahlreiche Fehler, schaue über jeden Artikel, füge neue Bilder ein und ersetze wo immer möglich Grafiken mit SVG.
+
+### 13. August 2017
+
+Da Jekyll sehr langsam rendert und ich auch schon meine [private Website](https://stefanimhoff.de) mit dem statischen Seitengenerator [Hugo](https://gohugo.io/) ersetzt hatte, war es nur der nächste logische Schritt das auch für kogakure.de zu machen.
+
+Gleichzeitig konnte ich die ganze Website noch einmal überarbeiten, einige kleinere grafische Änderungen vornehmen und die Homepage komplett neu gestalten.
+
+Außerdem konnte ich zum ersten Mal das [CSS Grid Layout](https://gridbyexample.com/) im größeren Umfang einsetzen. Die Arbeit mit diesem neuen CSS-Standard für Seitenlayouts hat unglaublichen Spaß gemacht.
+
+Die Website hat jetzt auch einen Service Worker und kann sogar ohne Internetverbindung angesehen werden.
+
+Ich nutze jetzt [Netlify](https://www.netlify.com/) als Hoster für meine Website, und veröffentliche Änderungen automatisch  direkt über [GitHub](https://github.com/).
+
+![Website 2017](/images/history-2017.jpg)
