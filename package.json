@@ -8,9 +8,9 @@
     "serve": "gitbook serve",
     "build": "npm run build:website && npm run build:pdf && npm run build:epub && npm run build:mobi",
     "build:website": "gitbook build",
-    "build:pdf": "gitbook pdf  ./ _release/kogakure.pdf",
-    "build:epub": "gitbook epub ./ _release/kogakure.epub",
-    "build:mobi": "gitbook mobi ./ _release/kogakure.mobi"
+    "build:pdf": "gitbook pdf  ./ _book/downloads/kogakure.pdf",
+    "build:epub": "gitbook epub ./ _book/downloads/kogakure.epub",
+    "build:mobi": "gitbook mobi ./ _book/downloads/kogakure.mobi"
   },
   "repository": {
     "type": "git",
