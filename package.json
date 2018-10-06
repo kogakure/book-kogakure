@@ -29,5 +29,8 @@
     "gitbook-plugin-hints": "^1.0.2",
     "gitbook-plugin-wordcount": "0.0.1",
     "gitbook-plugin-youtubex": "^2.0.3"
+  },
+  "dependencies": {
+    "svgexport": "^0.3.2"
   }
 }
