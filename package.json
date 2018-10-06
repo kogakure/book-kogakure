@@ -9,9 +9,9 @@
     "build": "yarn run build:website",
     "build:books": "yarn run build:pdf && yarn run build:epub && yarn run build:mobi",
     "build:website": "gitbook build",
-    "build:pdf": "gitbook pdf  ./ _release/kogakure.pdf",
-    "build:epub": "gitbook epub ./ _release/kogakure.epub",
-    "build:mobi": "gitbook mobi ./ _release/kogakure.mobi"
+    "build:pdf": "gitbook pdf  ./ _release/book-kogakure.pdf",
+    "build:epub": "gitbook epub ./ _release/book-kogakure.epub",
+    "build:mobi": "gitbook mobi ./ _release/book-kogakure.mobi"
   },
   "repository": {
     "type": "git",
