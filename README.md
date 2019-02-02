@@ -1,4 +1,4 @@
-[![Live](https://img.shields.io/badge/live-book.kogakure.de-green.svg)](https://book.kogakure.de/) ![Maintenance](https://img.shields.io/maintenance/yes/2018.svg) ![GitHub release](https://img.shields.io/github/release/kogakure/book-kogakure.svg)
+[![Live](https://img.shields.io/badge/live-book.kogakure.de-green.svg)](https://book.kogakure.de/) ![Maintenance](https://img.shields.io/maintenance/yes/2019.svg) ![GitHub release](https://img.shields.io/github/release/kogakure/book-kogakure.svg)
 
 # KOGAKURE (木隠)
 
