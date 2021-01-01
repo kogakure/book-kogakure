@@ -1,5 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/71271b96-84c1-48cc-9c05-0b93d62c4705/deploy-status)](https://app.netlify.com/sites/book-kogakure-de/deploys)
-[![Live](https://img.shields.io/badge/live-book.kogakure.de-green.svg)](https://book.kogakure.de/) ![Maintenance](https://img.shields.io/maintenance/yes/2020.svg) ![GitHub release](https://img.shields.io/github/release/kogakure/book-kogakure.svg)
+[![Live](https://img.shields.io/badge/live-book.kogakure.de-green.svg)](https://book.kogakure.de/) 
+![Maintenance](https://img.shields.io/maintenance/yes/2021.svg) 
+![GitHub release](https://img.shields.io/github/release/kogakure/book-kogakure.svg)
 
 # KOGAKURE (木隠)
 
